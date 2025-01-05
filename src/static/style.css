@@ -1,0 +1,123 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 40px;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.2;
+    font-size: 1.2em;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.poem p {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.dark-mode .poem p {
+    color: #e0e0e0;
+}
+
+button.dark-mode-toggle {
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    transition: background-color 0.3s;
+}
+
+.dark-mode button.dark-mode-toggle {
+    background-color: rgb(51, 51, 51);
+}
+
+button.dark-mode-toggle:hover {
+    background-color: #ddd;
+}
+
+button.dark-mode-toggle:focus {
+    outline: none;
+}
+
+button.dark-mode-toggle .light-icon,
+button.dark-mode-toggle .dark-icon {
+    display: none;
+    width: 24px;
+    height: 24px;
+}
+
+button.dark-mode-toggle .light-icon {
+    display: inline-block;
+}
+
+button.dark-mode-toggle .dark-icon {
+    display: none;
+}
+
+.dark-mode button.dark-mode-toggle .light-icon {
+    display: none;
+}
+
+.dark-mode button.dark-mode-toggle .dark-icon {
+    display: inline-block;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 1em;
+        padding: 20px;
+    }
+}
+
+dfn {
+    text-decoration: underline;
+    font-style: normal;
+    cursor: help;
+    position: relative;
+}
+
+dfn:hover::after {
+    content: attr(data-note);
+    position: absolute;
+    z-index: 9999;
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    white-space: nowrap;
+    transform: translateY(-1.5em);
+    left: 50%;
+    transform: translateX(-50%) translateY(-2em);
+    max-width: 200px;
+    word-wrap: break-word;
+}
+
+/* Dark mode styles for dfn */
+.dark-mode dfn {
+    text-decoration: underline;
+    font-style: normal;
+    cursor: help;
+    color: #e0e0e0; /* Adjust text color in dark mode */
+}
+
+.dark-mode dfn:hover::after {
+    background-color: #333;
+    color: #e0e0e0;
+    border: 1px solid #e0e0e0;
+}

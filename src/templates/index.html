@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Chaucer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <button id="darkModeToggle" class="dark-mode-toggle">
+            <img src="{{ url_for('static', filename='assets/light.png') }}" alt="Light Mode" class="light-icon">
+            <img src="{{ url_for('static', filename='assets/dark.png') }}" alt="Dark Mode" class="dark-icon">
+        </button>
+        <div class="poem">
+            {% for line in lines %}
+                <p>{{ line|safe }}</p>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script>
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const body = document.body;
+        
+        // Check if dark mode preference is saved in local storage
+        if (localStorage.getItem('darkMode') === 'true') {
+            body.classList.add('dark-mode');
+        }
+
+        // Toggle dark mode
+        darkModeToggle.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            localStorage.setItem('darkMode', body.classList.contains('dark-mode'));
+            
+            // Toggle visibility of icons
+            const lightIcon = darkModeToggle.querySelector('.light-icon');
+            const darkIcon = darkModeToggle.querySelector('.dark-icon');
+            
+            if (body.classList.contains('dark-mode')) {
+                lightIcon.style.display = 'none';
+                darkIcon.style.display = 'inline-block';
+            } else {
+                darkIcon.style.display = 'none';
+                lightIcon.style.display = 'inline-block';
+            }
+        });
+    </script>
+
+</body>
+</html>
