@@ -6,13 +6,11 @@ import re
 TODO:
 Parse notes in a special way, you can't use the upper case function with multiline notes
 A line of notes ends when another starts (with digits)
+A line of notes may have multiple notes. I'll assume they are separated by ":" 
 """
 
-def fn(line):
+def line_filter(line):
     return line != ""
-
-def is_verse(line):
-    return not re.match(r'^\d+[\.:]?.*', line)
 
 def reconstruct(lines):
     new_lines = []
@@ -25,9 +23,9 @@ def reconstruct(lines):
 
     return new_lines
 
-pages = convert_from_path("canterbury_tales.pdf", last_page=1)
+pages = convert_from_path("canterbury_tales.pdf", last_page=14)
 
-cropped_pages=[]
+cropped_pages = []
 
 for i, page in enumerate(pages):
     width, height = page.size
@@ -39,19 +37,13 @@ lines = []
 for page in cropped_pages:
     page_text = pytesseract.image_to_string(page)
 
-    lines = page_text.split("\n")
-    lines = list(filter(fn, lines))
+    l = page_text.split("\n")
+    l = list(filter(line_filter, l))
 
-    # Manual clean up
-    lines = lines[6:]
+    l = reconstruct(l)
+    lines.extend(l)
 
-    lines = reconstruct(lines)
-    lines = list(filter(is_verse, lines))
-
-
-with open('text.txt', 'w') as f:
+with open('raw_prologue.txt', 'w') as f:
     for i, line in enumerate(lines):
-        f.write(str(i+1))
-        f.write(' ')
         f.write(line)
         f.write("\n")
