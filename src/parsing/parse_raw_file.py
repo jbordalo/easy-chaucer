@@ -13,35 +13,41 @@ def is_verse(line):
 
 
 def expand_note(verse, line):
-    notes = []
+    note = {
+        "span": "",
+        "note_text": ""
+    }
 
-    # Find all matches of words in the verse and line
-    verse_words = re.findall(r'\b\w+\b', verse)
-    line_words = re.findall(r'\b\w+\b', line)
-    
-    matches = set(verse_words) & set(line_words)  # Find common words
-    
-    # For each match found, find the note associated with the match
-    for match in matches:
-        # Find the span (the start of the note)
-        note_start = line.find(match)
-        
-        # Extract everything from the colon (:) to the next match (or end of line)
-        note_text = line[note_start:].split(":")[1].strip()
-        
-        # Add note info to the notes list
-        notes.append({
-            "verse": verse.split(maxsplit=1)[0],  # Grab verse number
-            "span": match,  # Matched word/phrase
-            "text": note_text  # Extracted note text after the colon
-        })
-    
-    return notes
+    # Grab the number and position of each note
+    colon_position = line.rfind(":")
+    if colon_position == -1:
+        return []
+
+    # All on the right is surely the note
+    note["note_text"] = line[colon_position+1:].strip()
+
+    new_line = line[:colon_position].strip()
+    word_by_word = new_line.split()
+
+    # Assume the first word will always be part of it
+    span = [word_by_word.pop()]
+
+    while " ".join([word_by_word[-1]] + span) in verse:
+        span.insert(0, word_by_word.pop())
+
+    span_text = " ".join(span)
+
+    note["span"] = span_text
+
+    span_idx = line.find(span_text)
+
+    nxt = line[:span_idx]
+
+    return [note] + expand_note(verse, nxt)
 
 
 lines = []
 notes: dict = {}
-
 
 with open('raw_prologue.txt', 'r') as f:
     for i, line in enumerate(f):

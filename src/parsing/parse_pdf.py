@@ -2,20 +2,25 @@ import pytesseract
 from pdf2image import convert_from_path
 import re
 
-"""
-TODO:
-Parse notes in a special way, you can't use the upper case function with multiline notes
-A line of notes ends when another starts (with digits)
-A line of notes may have multiple notes. I'll assume they are separated by ":" 
-"""
-
 def line_filter(line):
     return line != ""
 
 def reconstruct(lines):
     new_lines = []
 
+    parsing_note = False
+
     for l in lines:
+        if parsing_note:
+            if l[0].isdigit():
+                parsing_note = False
+            else:
+                new_lines[-1] += ' ' + l
+
+        if l[0].isdigit():
+            parsing_note = True
+            new_lines.append(l)
+
         if not l[0].islower():
             new_lines.append(l)
         else:
@@ -23,7 +28,7 @@ def reconstruct(lines):
 
     return new_lines
 
-pages = convert_from_path("canterbury_tales.pdf", last_page=14)
+pages = convert_from_path("canterbury_tales.pdf", last_page=1)
 
 cropped_pages = []
 
