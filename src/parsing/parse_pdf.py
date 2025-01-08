@@ -1,8 +1,12 @@
 import pytesseract
 from pdf2image import convert_from_path
+import re
 
 def line_filter(line):
-    return line != ""
+    return line.strip() != ""
+
+def remove_trailing_number(s):
+    return re.sub(r'\d+$', '', s)
 
 def reconstruct(lines):
     new_lines = []
@@ -31,7 +35,7 @@ for page in cropped_pages:
 
     l = page_text.split("\n")
     l = list(filter(line_filter, l))
-
+    l = list(map(remove_trailing_number, l))
     l = reconstruct(l)
     lines.extend(l)
 

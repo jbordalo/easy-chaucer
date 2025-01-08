@@ -1,12 +1,5 @@
 import re
 
-"""
-TODO:
-Parse notes in a special way, you can't use the upper case function with multiline notes
-A line of notes ends when another starts (with digits)
-A line of notes may have multiple notes. I'll assume they are separated by ":" 
-"""
-
 
 def is_verse(line):
     return not re.match(r'^\d+[\.:]?.*', line)
@@ -50,20 +43,25 @@ lines = []
 notes: dict = {}
 
 with open('raw_prologue.txt', 'r') as f:
-    for i, line in enumerate(f):
+    for line in f:
         if is_verse(line):
             lines.append(line)
         else:
-            note_number = int(line.split(maxsplit=1)[0])
-            exp_notes = expand_note(lines[note_number - 1], line)
-            notes[i] = exp_notes
+            try:
+                note_number = int(line.split(maxsplit=1)[0])
+                exp_notes = expand_note(lines[note_number], line)
+                notes[note_number] = exp_notes
+            except ValueError:
+                # In this case, the note is multiline
+                # TODO
+                pass
 
 with open('prologue.txt', 'w') as f:
-    for i, line in enumerate(lines):
+    for line in lines:
         f.write(line)
-        f.write("\n")
 
 with open('prologue_notes.txt', 'w') as f:
-    for i, line in enumerate(notes):
-        f.write(line)
-        f.write("\n")
+    for note_number in notes.keys():
+        for note in notes.get(note_number):
+            f.write(f"{note_number} {note['span']}: {note['note_text']}")
+            f.write("\n")
