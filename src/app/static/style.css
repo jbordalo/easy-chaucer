@@ -6,16 +6,18 @@ body {
     color: #333;
     line-height: 1.2;
     font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
 }
+
 
 .container {
     max-width: 800px;
     margin: 0 auto;
 }
 
-.poem p {
-    margin-bottom: 20px;
-    text-align: justify;
+.poem {
+    font-size: 25px;
 }
 
 .dark-mode {
@@ -25,6 +27,11 @@ body {
 
 .dark-mode .poem p {
     color: #e0e0e0;
+}
+
+.controls {
+    height: 20%;
+    width: 100%;
 }
 
 button.dark-mode-toggle {

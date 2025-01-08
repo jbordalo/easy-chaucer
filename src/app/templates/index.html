@@ -6,9 +6,24 @@
     <title>Easy Chaucer</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
-<body>
 
+<body>
     <div class="container">
+        <div class="controls">        
+            <label for="fontSize">Font Size:</label>
+            <input type="range" id="fontSize" min="12" max="48" value="16">
+            
+            <label for="fontSelect">Font:</label>
+            <select id="fontSelect">
+                <option value="Georgia">Georgia</option>
+                <option value="Times New Roman">Times New Roman</option>
+                <option value="Arial">Arial</option>
+                <option value="Courier New">Courier New</option>
+            </select>
+        </div>
+    </div>
+    <div class="container">
+
         <button id="darkModeToggle" class="dark-mode-toggle">
             <img src="{{ url_for('static', filename='assets/light.png') }}" alt="Light Mode" class="light-icon">
             <img src="{{ url_for('static', filename='assets/dark.png') }}" alt="Dark Mode" class="dark-icon">
@@ -46,7 +61,39 @@
                 lightIcon.style.display = 'inline-block';
             }
         });
-    </script>
 
+        const fontSizeSlider = document.getElementById('fontSize');
+        const fontSelect = document.getElementById('fontSelect');
+
+        fontSizeSlider.addEventListener('input', updateStyle);
+        fontSelect.addEventListener('change', updateStyle);
+
+        if (localStorage.getItem('fontSize')) {
+            const fontSize = localStorage.getItem('fontSize');
+            const poemDiv = document.querySelector('.poem');
+            poemDiv.style.fontSize = fontSize + 'px';
+            fontSizeSlider.value = fontSize;
+
+        }
+        if (localStorage.getItem('fontFamily')) {
+            const fontFamily = localStorage.getItem('fontFamily');
+            const poemDiv = document.querySelector('.poem');
+            poemDiv.style.fontFamily = fontFamily;
+            fontSelect.value = fontFamily;
+        }
+
+        function updateStyle() {
+            const fontSize = fontSizeSlider.value;
+            const fontFamily = fontSelect.value;
+            const poemDiv = document.querySelector('.poem');
+            console.log(poemDiv.style.fontSize);
+            
+            poemDiv.style.fontSize = fontSize + 'px';
+            poemDiv.style.fontFamily = fontFamily;
+
+            localStorage.setItem('fontSize', fontSize);
+            localStorage.setItem('fontFamily', fontFamily);
+        }
+    </script>  
 </body>
 </html>
