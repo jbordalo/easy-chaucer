@@ -1,6 +1,5 @@
 import pytesseract
 from pdf2image import convert_from_path
-import re
 
 def line_filter(line):
     return line != ""
@@ -11,16 +10,6 @@ def reconstruct(lines):
     parsing_note = False
 
     for l in lines:
-        if parsing_note:
-            if l[0].isdigit():
-                parsing_note = False
-            else:
-                new_lines[-1] += ' ' + l
-
-        if l[0].isdigit():
-            parsing_note = True
-            new_lines.append(l)
-
         if not l[0].islower():
             new_lines.append(l)
         else:
