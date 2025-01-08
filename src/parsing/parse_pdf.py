@@ -7,8 +7,6 @@ def line_filter(line):
 def reconstruct(lines):
     new_lines = []
 
-    parsing_note = False
-
     for l in lines:
         if not l[0].islower():
             new_lines.append(l)
@@ -23,7 +21,7 @@ cropped_pages = []
 
 for i, page in enumerate(pages):
     width, height = page.size
-    cropped_page = page.crop((0, 150, width, height))
+    cropped_page = page.crop((0, 150, width, height - 150))
     cropped_pages.append(cropped_page)
 
 lines = []
