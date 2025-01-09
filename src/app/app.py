@@ -1,18 +1,14 @@
 from flask import Flask, render_template
 
-app = Flask(__name__)
+from load_data import get_page_lines
 
-lines = [
-    "Whan that Aprill with <dfn data-note=\"its\">his</dfn> shoures soote",
-    "The <dfn data-note=\"dryness\">droghte</dfn> of March hath perced to the roote",
-    "And bathed every veyne in <dfn data-note=\"such liquid\">swich licour</dfn>",
-    "Of which vertu engendred is the flour;",
-    "Whan Zephirus eek with his sweete breeth",
-    "Inspired hath in every holt and heeth",
-]
+current_page="General Prologue"
+
+app = Flask(__name__)
 
 @app.route('/')
 def home():
+    lines = get_page_lines(current_page)
     return render_template('index.html', lines=lines)
 
 if __name__ == '__main__':
