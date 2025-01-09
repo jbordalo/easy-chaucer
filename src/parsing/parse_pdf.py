@@ -2,11 +2,14 @@ import pytesseract
 from pdf2image import convert_from_path
 import re
 
+
 def line_filter(line):
     return line.strip() != ""
 
+
 def remove_trailing_number(s):
-    return re.sub(r'\d+$', '', s)
+    return re.sub(r' \d+$', '', s)
+
 
 def reconstruct(lines):
     new_lines = []
@@ -15,11 +18,14 @@ def reconstruct(lines):
         if not l[0].islower():
             new_lines.append(l)
         else:
-            new_lines[-1] += ' ' + l
+            try:
+                new_lines[-1] += ' ' + l
+            except IndexError:
+                continue
 
     return new_lines
 
-pages = convert_from_path("canterbury_tales.pdf", last_page=1)
+pages = convert_from_path("canterbury_tales.pdf", last_page=14)
 
 cropped_pages = []
 
