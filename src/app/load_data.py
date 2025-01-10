@@ -29,8 +29,6 @@ def transform_line(line, span, note_text):
         end = start + len(span)
         new_line = line[:start] + f"<dfn data-note=\"{html.escape(note_text)}\">{span}</dfn>" + line[end:]
 
-        print(line, start, end, new_line, span, sep=";")
-
     return new_line
 
 
