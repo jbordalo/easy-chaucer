@@ -7,4 +7,3 @@ Includes scripts for parsing from Riverside Chaucer.
 
 * **João Bordalo** - *Initial work* - [jbordalo](https://github.com/jbordalo)
 * **Jacinta Sousa** - *Initial work* - [00jcnt](https://github.com/00jcnt)
-

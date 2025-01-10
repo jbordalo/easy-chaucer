@@ -4,96 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Easy Chaucer</title>
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='assets/favicon.png') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
 <body>
+    <header>
+        {% include "navbar.html" %}
+    </header>
+
     <div class="container">
-        <div class="controls">        
-            <label for="fontSize">Font Size:</label>
-            <input type="range" id="fontSize" min="12" max="48" value="16">
-            
-            <label for="fontSelect">Font:</label>
-            <select id="fontSelect">
-                <option value="Georgia">Georgia</option>
-                <option value="Times New Roman">Times New Roman</option>
-                <option value="Arial">Arial</option>
-                <option value="Courier New">Courier New</option>
-            </select>
-        </div>
+        <p>
+            <b>EasyChaucer</b> is an easy way to read Geoffrey Chaucer's 'The Canterbury Tales' in the original Middle English&#8212;with the help of on-screen notes.
+        </p>
+
+        <div style="font-size: 60px; margin: 0 auto 50px auto;">𓆱</div>
+
+        <p>
+            The Canterbury Tales (Middle English: Tales of Caunterbury)[2] is a collection of twenty-four stories that runs to over 17,000 lines written in Middle English by Geoffrey Chaucer between 1387 and 1400.[3] It is widely regarded as Chaucer's magnum opus. The tales (mostly written in verse, although some are in prose) are presented as part of a story-telling contest by a group of pilgrims as they travel together from London to Canterbury to visit the shrine of Saint Thomas Becket at Canterbury Cathedral. The prize for this contest is a free meal at the Tabard Inn at Southwark on their return.
+
+It has been suggested that the greatest contribution of The Canterbury Tales to English literature was the popularisation of the English vernacular in mainstream literature, as opposed to French, Italian or Latin. English had, however, been used as a literary language centuries before Chaucer's time, and several of Chaucer's contemporaries—John Gower, William Langland, the Pearl Poet, and Julian of Norwich—also wrote major literary works in English. It is unclear to what extent Chaucer was seminal in this evolution of literary preference.
+
+The Canterbury Tales is generally thought to have been incomplete at the end of Chaucer's life. In the General Prologue, some 30 pilgrims are introduced. According to the Prologue, Chaucer's intention was to write four stories from the perspective of each pilgrim, two each on the way to and from their ultimate destination, St. Thomas Becket's shrine (making for a total of about 120 stories). It is revered as one of the most important works in English literature.
+        </p>
     </div>
-    <div class="container">
-
-        <button id="darkModeToggle" class="dark-mode-toggle">
-            <img src="{{ url_for('static', filename='assets/light.png') }}" alt="Light Mode" class="light-icon">
-            <img src="{{ url_for('static', filename='assets/dark.png') }}" alt="Dark Mode" class="dark-icon">
-        </button>
-        <div class="poem">
-            {% for line in lines %}
-                <p>{{ line|safe }}</p>
-            {% endfor %}
-        </div>
-    </div>
-
-    <script>
-        const darkModeToggle = document.getElementById('darkModeToggle');
-        const body = document.body;
-        
-        // Check if dark mode preference is saved in local storage
-        if (localStorage.getItem('darkMode') === 'true') {
-            body.classList.add('dark-mode');
-        }
-
-        // Toggle dark mode
-        darkModeToggle.addEventListener('click', () => {
-            body.classList.toggle('dark-mode');
-            localStorage.setItem('darkMode', body.classList.contains('dark-mode'));
-            
-            // Toggle visibility of icons
-            const lightIcon = darkModeToggle.querySelector('.light-icon');
-            const darkIcon = darkModeToggle.querySelector('.dark-icon');
-            
-            if (body.classList.contains('dark-mode')) {
-                lightIcon.style.display = 'none';
-                darkIcon.style.display = 'inline-block';
-            } else {
-                darkIcon.style.display = 'none';
-                lightIcon.style.display = 'inline-block';
-            }
-        });
-
-        const fontSizeSlider = document.getElementById('fontSize');
-        const fontSelect = document.getElementById('fontSelect');
-
-        fontSizeSlider.addEventListener('input', updateStyle);
-        fontSelect.addEventListener('change', updateStyle);
-
-        if (localStorage.getItem('fontSize')) {
-            const fontSize = localStorage.getItem('fontSize');
-            const poemDiv = document.querySelector('.poem');
-            poemDiv.style.fontSize = fontSize + 'px';
-            fontSizeSlider.value = fontSize;
-
-        }
-        if (localStorage.getItem('fontFamily')) {
-            const fontFamily = localStorage.getItem('fontFamily');
-            const poemDiv = document.querySelector('.poem');
-            poemDiv.style.fontFamily = fontFamily;
-            fontSelect.value = fontFamily;
-        }
-
-        function updateStyle() {
-            const fontSize = fontSizeSlider.value;
-            const fontFamily = fontSelect.value;
-            const poemDiv = document.querySelector('.poem');
-            console.log(poemDiv.style.fontSize);
-            
-            poemDiv.style.fontSize = fontSize + 'px';
-            poemDiv.style.fontFamily = fontFamily;
-
-            localStorage.setItem('fontSize', fontSize);
-            localStorage.setItem('fontFamily', fontFamily);
-        }
-    </script>  
 </body>
+
 </html>

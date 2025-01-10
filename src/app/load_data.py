@@ -1,12 +1,20 @@
 import re
 import html
 
-files = {
-    "General Prologue": ["prologue.txt", "prologue_notes.txt"]
+metadata = {
+    "general-prologue": {
+        "title": "General Prologue",
+        "incipit": "Here bygynneth the Book of the Tales of Caunterbury.",
+        "file_root_name": "prologue"
+    },
+    "knights-tale": {
+        "title": "Knight's Tale",
+        "incipit": "Heere bigynneth the Knyghtes Tale.",
+        "file_root_name": "prologue"
+    },
 }
 
 lines = []
-
 
 def split_number_and_note(line):
     return re.match(r'^(\d+)\s*(.*)', line).groups()
@@ -55,12 +63,15 @@ def construct_lines_with_notes(filename, lines):
             lines[note_number-1] = new_line
 
 
-def get_page_lines(page):
-    lines = load_lines(f"db/{files[page][0]}")
+def get_chapter_info(chapter):
+    lines = load_lines(f"db/{metadata[chapter]["file_root_name"]}.txt")
 
-    construct_lines_with_notes(f"db/{files[page][1]}", lines)
+    construct_lines_with_notes(f"db/{metadata[chapter]["file_root_name"]}_notes.txt", lines)
 
-    return lines
+    title = metadata[chapter]["title"]
+    incipit = metadata[chapter]["incipit"]
+
+    return (title, incipit, lines)
 
 if __name__ == '__main__':
     lines = load_lines('prologue.txt')
