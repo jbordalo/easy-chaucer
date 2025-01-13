@@ -1,5 +1,9 @@
 import re
 
+chapter="knights-tale"
+offset=859
+
+
 def is_verse(line):
     return not re.match(r'^\d+[\.:]?.*', line)
 
@@ -38,13 +42,12 @@ def expand_note(verse: str, line: str):
     return [note] + expand_note(verse, nxt)
 
 
-def parse_multiline_notes(line, colon_position):
-        # All on the right is surely the note
+def parse_multiline_notes(line, colon_position, start, end):
+    # All on the right is surely the note
     note_text = line[colon_position+1:].strip()
 
     new_line = line[:colon_position].strip()
     word_by_word = new_line.split()[1:]
-    endingspan = " ".join(word_by_word[-2:])
     span = [word_by_word.pop()]
 
     while " ".join([word_by_word[-1]] + span).lower() in lines[end-1].lower():
@@ -65,7 +68,7 @@ def parse_multiline_notes(line, colon_position):
 lines = []
 notes: dict = {}
 
-with open('raw_prologue.txt', 'r') as f:
+with open(f'raw_{chapter}.txt', 'r') as f:
     """
         For normal notes you might have ellipsis, which will make the algorithm fail
         For multiline notes
@@ -73,12 +76,13 @@ with open('raw_prologue.txt', 'r') as f:
         If no note found (no colon), it's an explanation, add it to the first verse
     """
 
-    for line in f:
+    for line in f:  
         if is_verse(line):
             lines.append(line)
         else:
             try:
                 note_number = int(line.split(maxsplit=1)[0])
+                note_number = note_number-offset+1
                 exp_notes = expand_note(lines[note_number-1], line)
                 if not note_number in notes:
                     notes[note_number] = []
@@ -86,19 +90,18 @@ with open('raw_prologue.txt', 'r') as f:
             except ValueError:
                 # In this case, the note is multiline
                 start_str, end_str = line.split(maxsplit=1)[0].split('-')
-                start = int(start_str)
+                start = int(start_str)-offset+1
                 end = int(end_str)
                 if end < start:
                     end = int(start_str[:-2] + end_str)
-
+                end = end - offset+1
                 colon_position = line.find(":")
-
                 if not end in notes:
                     notes[end] = []
 
                 # If n-n+1 interpret the whole thing as 1, likely split at Upper case word, since new verse
                 if start == end-1 and colon_position != -1:
-                    parse_multiline_notes(line, colon_position)
+                    parse_multiline_notes(line, colon_position, start=start, end=end)
                 else:
                     notes[end].append({
                         "span":"",
@@ -106,16 +109,13 @@ with open('raw_prologue.txt', 'r') as f:
                     })
             except IndexError:
                 print(line)
-                exit(0)
-               
+                exit(0)        
 
-             
-
-with open('prologue.txt', 'w') as f:
+with open(f'{chapter}.txt', 'w') as f:
     for line in lines:
         f.write(line)
 
-with open('prologue_notes.txt', 'w') as f:
+with open(f'{chapter}_notes.txt', 'w') as f:
     for note_number in notes.keys():
         for note in notes.get(note_number):
             if not note['span']:

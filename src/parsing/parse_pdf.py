@@ -2,6 +2,16 @@ import pytesseract
 from pdf2image import convert_from_path
 import re
 
+chapter_ranges = {
+    "prologue" : (0, 14),
+    "knights-tale" : (15, 44),
+    "millers-prologue" : (44, 45),
+    "millers-tale" : (46, 55),
+    "reeves-prologue": (55, 56),
+    "reeves-tale": (56, 62),
+    "cooks-prologue": (62, 63),
+    "cooks-tale": (63, 64)
+}
 
 def line_filter(line):
     return line.strip() != ""
@@ -9,7 +19,6 @@ def line_filter(line):
 
 def remove_trailing_number(s):
     return re.sub(r' \d+$', '', s)
-
 
 def reconstruct(lines):
     new_lines = []
@@ -25,7 +34,9 @@ def reconstruct(lines):
 
     return new_lines
 
-pages = convert_from_path("canterbury_tales.pdf", last_page=14)
+parsed_chapter= "knights-tale"
+page_range = chapter_ranges[parsed_chapter]
+pages = convert_from_path("canterbury_tales.pdf", first_page=page_range[0], last_page=page_range[1])
 
 cropped_pages = []
 
@@ -45,7 +56,7 @@ for page in cropped_pages:
     l = reconstruct(l)
     lines.extend(l)
 
-with open('raw_prologue.txt', 'w') as f:
+with open(f'raw_{parsed_chapter}.txt', 'w') as f:
     for i, line in enumerate(lines):
         f.write(line)
         f.write("\n")

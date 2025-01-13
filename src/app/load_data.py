@@ -10,7 +10,7 @@ metadata = {
     "knights-tale": {
         "title": "Knight's Tale",
         "incipit": "Heere bigynneth the Knyghtes Tale.",
-        "file_root_name": "prologue"
+        "file_root_name": "knights-tale"
     },
 }
 
@@ -64,9 +64,9 @@ def construct_lines_with_notes(filename, lines):
 
 
 def get_chapter_info(chapter):
-    lines = load_lines(f"db/{metadata[chapter]["file_root_name"]}.txt")
+    lines = load_lines(f"db/{metadata[chapter]['file_root_name']}.txt")
 
-    construct_lines_with_notes(f"db/{metadata[chapter]["file_root_name"]}_notes.txt", lines)
+    construct_lines_with_notes(f"db/{metadata[chapter]['file_root_name']}_notes.txt", lines)
 
     title = metadata[chapter]["title"]
     incipit = metadata[chapter]["incipit"]
@@ -74,9 +74,10 @@ def get_chapter_info(chapter):
     return (title, incipit, lines)
 
 if __name__ == '__main__':
-    lines = load_lines('prologue.txt')
+    chapter = "knights-tale"
+    lines = load_lines(f'{chapter}.txt')
 
-    construct_lines_with_notes('prologue_notes.txt', lines)
+    construct_lines_with_notes(f'{chapter}_notes.txt', lines)
 
     with open('trash.txt', 'w') as f:
         for line in lines:

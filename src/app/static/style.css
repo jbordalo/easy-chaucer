@@ -28,9 +28,16 @@ body {
     margin: 0 auto 20px auto;
 }
 
-#incipit {
-    margin-bottom: 20px;
+.incipit {
+    display: inline-block;
+    margin: 15px auto !important;
     font-style: italic;
+}
+
+.explicit {
+    display: inline-block;
+    margin: 15px 15px;
+    font-style: italic !important;
 }
 
 .line-wrapper {
