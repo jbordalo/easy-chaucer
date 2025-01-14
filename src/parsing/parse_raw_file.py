@@ -1,11 +1,12 @@
 import re
+from create_html_lines import construct_lines_with_notes
 
 
 def is_verse(line):
     return not re.match(r'^\d+[\.:]?.*', line)
 
 
-#pre-condition: not is_verse
+# pre-condition: not is_verse
 def is_simple_note(line):
     assert not is_verse(line)
     try:
@@ -82,9 +83,6 @@ def parse_multiline_notes(line, colon_position, start, end):
         "note_text": note_text
     })
 
-lines = []
-notes: dict = {}
-
 
 def get_multiline_range(start_str: str, end_str: str):
     start = int(start_str)
@@ -94,12 +92,16 @@ def get_multiline_range(start_str: str, end_str: str):
     if end < start:
         end = int(start_str[:-2] + end_str)
 
-    return start - offset + 1, end - offset + 1
+    return start - chapter_initial_line + 1, end - chapter_initial_line + 1
+
+
+lines = []
+notes: dict = {}
 
 
 if __name__ == '__main__':
-    chapter="knights-tale"
-    offset=859
+    chapter = "prologue"
+    chapter_initial_line = 1
 
     with open(f'raw_{chapter}.txt', 'r') as f:
         """
@@ -110,7 +112,7 @@ if __name__ == '__main__':
                 lines.append(line)
             elif is_simple_note(line):
                 note_number = int(line.split(maxsplit=1)[0])
-                note_number = note_number - offset + 1
+                note_number = note_number - chapter_initial_line + 1
                 exp_notes = expand_note(lines[note_number-1], line)
                 if not note_number in notes:
                     notes[note_number] = []
@@ -124,12 +126,13 @@ if __name__ == '__main__':
                     notes[end] = []
 
                 if start == end-1 and colon_position != -1:
-                    parse_multiline_notes(line, colon_position, start=start, end=end)
+                    parse_multiline_notes(
+                        line, colon_position, start=start, end=end)
                 else:
                     notes[end].append({
                         "span": "",
                         "note_text": line.split(maxsplit=1)[1].strip()
-                    })     
+                    })
             else:
                 # Unexpected behavior
                 print("Couldn't find type of line for line:")
@@ -139,11 +142,23 @@ if __name__ == '__main__':
         for line in lines:
             f.write(line)
 
+    notes_list = []
+
     with open(f'{chapter}_notes.txt', 'w') as f:
         for note_number in notes.keys():
             for note in notes.get(note_number):
                 if not note['span']:
-                    f.write(f"{note_number} {note['note_text']}")
+                    out = f"{note_number} {note['note_text']}"
+                    f.write(out)
                 else:
-                    f.write(f"{note_number} {note['span']}: {note['note_text']}")
+                    out = f"{note_number} {note['span']}: {note['note_text']}"
+                    f.write(out)
+
                 f.write("\n")
+                notes_list.append(out)
+
+    lines_html = construct_lines_with_notes(lines, notes_list)
+
+    with open(f'{chapter}_html.txt', 'w') as f:
+        for line in lines_html:
+            f.write(line)
