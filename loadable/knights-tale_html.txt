@@ -1,5 +1,5 @@
-Whilom, as olde <dfn data-note="histories">stories</dfn> tellen us,
-Ther was a duc that <dfn data-note="was called">highte</dfn> Theseus;
+<dfn data-note="once">Whilom</dfn>, as olde <dfn data-note="histories">stories</dfn> tellen us,
+Ther was a <dfn data-note="duke">duc</dfn> that <dfn data-note="was called">highte</dfn> Theseus;
 Of Atthenes he was lord and governour,
 And in his tyme swich a conquerour
 That gretter was ther noon under the sonne.
@@ -14,7 +14,7 @@ And eek hir yonge <dfn data-note="sister">suster</dfn> Emelye.
 And thus with victorie and with melodye
 Lete I this noble duc to Atthenes ryde,
 And al his hoost in armes hym bisyde.
-And certes, if it nere to long to <dfn data-note="hear">heere</dfn>,
+And <dfn data-note="certainly mere = ne were, were not">certes</dfn>, if it nere to long to <dfn data-note="hear">heere</dfn>,
 I wolde have toold yow fully the manere
 How wonnen was the regne of Femenye
 By Theseus and by his <dfn data-note="knights">chivalrye</dfn>;
@@ -28,10 +28,10 @@ But al that thyng I <dfn data-note="must now forgo">moot as now forbere</dfn>.
 I have, God woot, a large feeld to <dfn data-note="plow">ere</dfn>,
 And <dfn data-note="weak">wayke</dfn> been the oxen in my plough.
 The remenant of the tale is long ynough.
-I wol nat letten eek noon of this <dfn data-note="company">route</dfn>;
+I wol nat <dfn data-note="hinder">letten</dfn> eek noon of this <dfn data-note="company">route</dfn>;
 Lat every felawe telle his tale <dfn data-note="in turn">aboute</dfn>,
 And lat se now who shal the soper wynne;
-And ther I lefte, I wol <dfn data-note="again">ayeyn</dfn> bigynne.
+And <dfn data-note="where">ther</dfn> I lefte, I wol <dfn data-note="again">ayeyn</dfn> bigynne.
 This duc, of whom I make mencioun,
 Whan he was come almoost unto the toun,
 In al his <dfn data-note="prosperity">wele</dfn> and in his mooste pride,
@@ -42,17 +42,17 @@ Ech after oother clad in clothes blake;
 But swich a cry and swich a wo they make
 That in this world <dfn data-note="ne ys, iS not">nys</dfn> creature lyvynge
 That herde swich another <dfn data-note="lamentation">waymentynge</dfn>;
-And of this cry they nolde nevere <dfn data-note="cease">stenten</dfn>
-Til they the reynes of his brydel <dfn data-note="siezed">henten</dfn>.
+And of this cry they <dfn data-note="ne wolde, would not">nolde</dfn> nevere <dfn data-note="cease">stenten</dfn>
+<dfn data-note="until">Til</dfn> they the reynes of his brydel <dfn data-note="siezed">henten</dfn>.
 "What folk been ye, that at myn homcomynge
-Perturben so my <dfn data-note="festival">feste</dfn> with criynge?"
+<dfn data-note="disturb">Perturben</dfn> so my <dfn data-note="festival">feste</dfn> with criynge?"
 Quod Theseus. "Have ye so greet envye
 Of myn honour, that thus <dfn data-note="lament">compleyne</dfn> and crye?
 Or who hath yow <dfn data-note="injured">mysboden</dfn> or offended?
 And telleth me if it may been amended,
 And why that ye been clothed thus in blak."
 The eldeste lady of hem alle spak,
-Whan she hadde swowned with a <dfn data-note="deathlike look">deedly cheere</dfn>,
+Whan she hadde <dfn data-note="swooned, fainted">swowned</dfn> with a <dfn data-note="deathlike look">deedly cheere</dfn>,
 That it was <dfn data-note="pity, a sorrowful matter">routhe</dfn> for to seen and heere;
 She seyde, "Lord, to whom Fortune hath <dfn data-note="given">yiven</dfn>
 Victorie, and as a conqueror to lyven,
@@ -91,11 +91,11 @@ And with that word, withouten moore <dfn data-note="delay, respite">respit</dfn>
 They <dfn data-note="fell face down">fillen gruf</dfn> and criden pitously,
 "Have on us wrecched wommen som mercy,
 And lat oure <dfn data-note="sorrow">sorwe</dfn> synken in thyn herte."
-This gentil duc doun from his courser <dfn data-note="leapt">sterte</dfn>
+This <dfn data-note="noble">gentil</dfn> duc doun from his <dfn data-note="charger, war-horse">courser</dfn> <dfn data-note="leapt">sterte</dfn>
 With herte <dfn data-note="compassionate">pitous</dfn>, whan he herde hem speke.
 Hym thoughte that his herte wolde breke,
-Whan he saugh hem so pitous and so <dfn data-note="dejected">maat</dfn>,
-That whilom weren of <dfn data-note="such high rank">so greet estaat</dfn>;
+Whan he saugh hem so <dfn data-note="pitiful">pitous</dfn> and so <dfn data-note="dejected">maat</dfn>,
+That <dfn data-note="once, formerly">whilom</dfn> weren of <dfn data-note="such high rank">so greet estaat</dfn>;
 And in his armes he <dfn data-note="picked them all up">hem alle up hente</dfn>,
 And hem conforteth <dfn data-note="with a good will, kindly">in ful good entente</dfn>,
 And swoor his ooth, as he was <dfn data-note="faithful">trewe</dfn> knyght,
@@ -104,10 +104,10 @@ Upon the tiraunt Creon hem to <dfn data-note="avenge">wreke</dfn>
 That al the peple of Grece sholde speke
 How Creon was <dfn data-note="served, treated by Theseus">of Theseus yserved</dfn>
 As he that hadde his deeth ful wel deserved.
-And right anoon, withouten moore <dfn data-note="delay">abood</dfn>,
+And <dfn data-note="immediately">right anoon</dfn>, withouten moore <dfn data-note="delay">abood</dfn>,
 His baner he desplayeth, and forth rood
 <dfn data-note="toward Thebes">To Thebes-ward</dfn>, and al his hoost biside.
-No neer Atthenes wolde he go ne <dfn data-note="walk nor ride">ride</dfn>,
+No <dfn data-note="nearer gone">neer</dfn> Atthenes wolde he go ne <dfn data-note="walk nor ride">ride</dfn>,
 Ne take his ese fully half a day,
 But onward on <dfn data-note="he spent the night on the road">his wey that nyght he lay</dfn>,
 And sente anon Ypolita the queene,
@@ -119,7 +119,7 @@ So shyneth in his white baner large
 That alle the <dfn data-note="fields glitter all about">feeldes glyteren up and doun</dfn>;
 And by his baner born is his penoun
 Of gold ful riche, in which ther was <dfn data-note="embroidered">ybete</dfn>
-The Mynotaur, which that he <dfn data-note="conquered">wan</dfn> in Crete.
+The <dfn data-note="the monster slain by Theseus">Mynotaur</dfn>, which that he <dfn data-note="conquered">wan</dfn> in Crete.
 Thus rit this duc, thus rit this conquerour,
 And in his hoost of chivalrie the flour,
 Til that he cam to Thebes and alighte
@@ -129,7 +129,7 @@ With Creon, which that was of Thebes kyng,
 He faught, and slough hym manly as a knyght
 In <dfn data-note="open battle">pleyn bataille</dfn>, and putte the folk to flyght;
 And by <dfn data-note="assault">assaut</dfn> he wan the citee after,
-And rente adoun bothe wall and <dfn data-note="beam">sparre</dfn> and rafter;
+And <dfn data-note="tore down">rente adoun</dfn> bothe wall and <dfn data-note="beam">sparre</dfn> and rafter;
 And to the ladyes he restored agayn
 The bones of hir <dfn data-note="husbands">freendes</dfn> that were slayn,
 To doon obsequies, as was <dfn data-note="then the custom">tho the gyse</dfn>.
@@ -144,9 +144,9 @@ Whan that this worthy duc, this Theseus,
 Hath Creon slayn and wonne Thebes thus,
 Stille in that feeld he took al nyght his reste,
 And dide with al the contree <dfn data-note="as he pleased">as hym leste</dfn>.
-To ransake in the <dfn data-note="heap">taas</dfn> of bodyes dede,
-Hem for to strepe of harneys and of <dfn data-note="clothing">wede</dfn>,
-The pilours <dfn data-note="took great pains, worked hard">diden bisynesse and cure</dfn>
+To <dfn data-note="search">ransake</dfn> in the <dfn data-note="heap">taas</dfn> of bodyes dede,
+Hem for to <dfn data-note="strip">strepe</dfn> of <dfn data-note="armor">harneys</dfn> and of <dfn data-note="clothing">wede</dfn>,
+The <dfn data-note="scavengers">pilours</dfn> <dfn data-note="took great pains, worked hard">diden bisynesse and cure</dfn>
 After the bataille and <dfn data-note="defeat">disconfiture</dfn>.
 And so bifel that in the taas they founde,
 <dfn data-note="pierced through">Thurgh-girt</dfn> with many a grevous blody wounde,
@@ -155,8 +155,8 @@ Bothe <dfn data-note="with the same heraldic device">in oon armes</dfn>, wroght 
 Of whiche two Arcita highte that oon,
 And that oother knyght highte Palamon.
 Nat fully <dfn data-note="living">quyke</dfn>, ne fully dede they were,
-But by hir cote-armures and by hir <dfn data-note="armor">gere</dfn>
-The heraudes knewe hem best <dfn data-note="in particular">in special</dfn>
+But by hir <dfn data-note="tunics embroidered with heraldic devices, wom over the armor">cote-armures</dfn> and by hir <dfn data-note="armor">gere</dfn>
+The <dfn data-note="heralds">heraudes</dfn> knewe hem best <dfn data-note="in particular">in special</dfn>
 As they that weren of the blood roial
 Of Thebes, and of <dfn data-note="sisters">sustren</dfn> two yborn.
 Out of the taas the pilours han hem torn,
@@ -181,8 +181,8 @@ For with the rose colour <dfn data-note="her hue strove (vied with)">stroof hire
 I <dfn data-note="ne woot, do not know">noot</dfn> which was the fyner of hem two —
 Er it were day, as was hir <dfn data-note="custom, wont">wone</dfn> to do,
 She was arisen and al redy <dfn data-note="prepared">dight</dfn>,
-For May wole have no slogardie <dfn data-note="at night">anyght</dfn>.
-The sesoun <dfn data-note="spurs, incites">priketh</dfn> every gentil herte,
+For May wole have no <dfn data-note="sluggishness, laziness">slogardie</dfn> <dfn data-note="at night">anyght</dfn>.
+The <dfn data-note="season">sesoun</dfn> <dfn data-note="spurs, incites">priketh</dfn> every gentil herte,
 And maketh it out of his slep to <dfn data-note="move suddenly, awake">sterte</dfn>,
 And seith "Arys, and do thyn observaunce."
 This maked Emelye have remembraunce
@@ -214,13 +214,13 @@ Goth in the chambre romynge to and fro
 And to hymself <dfn data-note="lamenting">compleynynge of</dfn> his wo.
 That he was born, ful ofte he seyde, "allas!"
 And so bifel, by aventure or cas,
-That thurgh a wyndow, <dfn data-note="thick(ly set) with">thikke of</dfn> many a barre
+That <dfn data-note="through =">thurgh</dfn> a wyndow, <dfn data-note="thick(ly set) with">thikke of</dfn> many a barre
 Of iren greet and square as any <dfn data-note="wooden beam">sparre</dfn>,
 He cast his eye upon Emelya,
 And therwithal he <dfn data-note="turned pale">bleynte</dfn> and cride, "A!"
 As though he stongen were unto the herte.
 And with that cry Arcite anon up <dfn data-note="leapt up">sterte</dfn> 
-And seyde, "Cosyn myn, what <dfn data-note="ails">eyleth</dfn> thee,
+And seyde, "<dfn data-note="kinsman">Cosyn</dfn> myn, what <dfn data-note="ails">eyleth</dfn> thee,
 That art so pale and deedly <dfn data-note="to look upon">on to see</dfn>?
 Why <dfn data-note="cridest thow, did you cry out">cridestow</dfn>? Who hath thee doon offence?
 For Goddes love, taak al in pacience
@@ -241,7 +241,7 @@ Into myn herte, that wol my <dfn data-note="killer">bane</dfn> be.
 The fairnesse of that lady that I see
 Yond in the gardyn romen to and fro
 Is cause of al my criyng and my wo.
-I noot <dfn data-note="whether">wher</dfn> she be womman or goddesse,
+I <dfn data-note="ne wool, know not">noot</dfn> <dfn data-note="whether">wher</dfn> she be womman or goddesse,
 But Venus is it soothly, as I gesse."
 And therwithal on knees doun he fil,
 And seyde, "Venus, if it be thy wil
@@ -272,7 +272,7 @@ This Palamon gan knytte his browes tweye.
 "It <dfn data-note="ne were, would not be (subj.)">nere</dfn>," quod he, "to thee no greet honour
 For to be fals, ne for to be traitour
 To me, that am thy cosyn and thy <dfn data-note="sworn brother">brother</dfn>
-Ysworn ful depe, and ech of us <dfn data-note="to">til</dfn> oother,
+<dfn data-note="sworn brother">Ysworn</dfn> <dfn data-note="very deeply, sincerely">ful depe</dfn>, and ech of us <dfn data-note="to">til</dfn> oother,
 That nevere, for to dyen in the peyne,
 Til that the deeth departe shal us tweyne,
 Neither of us in love to hyndre oother,
@@ -303,13 +303,13 @@ And myn is love as to a creature;
 For which I tolde thee myn aventure
 As to my cosyn and my brother sworn.
 I <dfn data-note="posit, suppose for the sake of argument">pose</dfn> that thow lovedest hire biforn;
-Wostow nat wel the olde clerkes <dfn data-note="saying">sawe</dfn>,
+Wostow nat wel the olde <dfn data-note="scholars’">clerkes</dfn> <dfn data-note="saying">sawe</dfn>,
 That ‘who shal yeve a lovere any lawe?’
-Love is a gretter <dfn data-note="man-made, legislated (as opposed to natural) law">lawe</dfn>, by my pan,
+Love is a gretter <dfn data-note="man-made, legislated (as opposed to natural) law">lawe</dfn>, <dfn data-note="by my skull ne Positif">by my pan</dfn>,
 Than may be yeve to any erthely man;
 And therfore positif lawe and swich decree
 Is broken <dfn data-note="daily">al day</dfn> for love in ech degree.
-A man moot nedes love, <dfn data-note="despite his care, in spite of all he could do about it">maugree his heed</dfn>;
+A man <dfn data-note="must necessarily">moot nedes</dfn> love, <dfn data-note="despite his care, in spite of all he could do about it">maugree his heed</dfn>;
 He may nat <dfn data-note="escape">fleen</dfn> it, thogh he sholde be deed,
 <dfn data-note="whether she be">Al be she</dfn> mayde, or wydwe, or elles wyf.
 And eek it is nat likly al thy lyf
@@ -333,7 +333,7 @@ But to <dfn data-note="the point">th’effect</dfn>. It happed on a day,
 To telle it yow as shortly as I may,
 A worthy duc that highte Perotheus,
 That felawe was unto duc Theseus
-Syn thilke day that they were children <dfn data-note="little">lite</dfn>,
+<dfn data-note="since">Syn</dfn> <dfn data-note="that">thilke</dfn> day that they were children <dfn data-note="little">lite</dfn>,
 Was come to Atthenes his felawe to visite,
 And for to pleye as he was wont to do;
 For in this world he loved no man so,
@@ -362,7 +362,7 @@ Lat hym be war! His nekke <dfn data-note="lies as a pledge">lith to wedde</dfn>.
 How greet a sorwe suffreth now Arcite!
 The deeth he feeleth thurgh his herte smyte;
 He wepeth, wayleth, crieth pitously;
-To sleen hymself he waiteth <dfn data-note="secretly">prively</dfn>.
+To <dfn data-note="slay, kill">sleen</dfn> hymself he <dfn data-note="awaits an occasion">waiteth</dfn> <dfn data-note="secretly">prively</dfn>.
 He seyde, "Allas that day that I was born!
 Now is my prisoun worse than biforn;
 Now <dfn data-note="I am destined">is me shape</dfn> eternally to dwelle
@@ -386,10 +386,10 @@ That <dfn data-note="by some chance, since">by som cas, syn</dfn> Fortune is cha
 Thow maist to thy desir somtyme atteyne.
 But I, that am exiled and <dfn data-note="barren">bareyne</dfn>
 Of alle grace, and in so greet dispeir
-That ther nys <dfn data-note="earth, water, fire, nor air (the four elements; i.e., all creation)">erthe, water, fir, ne eir</dfn>,
+That ther <dfn data-note="ne ys, isnot">nys</dfn> <dfn data-note="earth, water, fire, nor air (the four elements; i.e., all creation)">erthe, water, fir, ne eir</dfn>,
 Ne creature that of hem maked is,
 That may me helpe or doon confort in this,
-Wel oughte I sterve in <dfn data-note="despair">wanhope</dfn> and distresse.
+Wel oughte I <dfn data-note="die">sterve</dfn> in <dfn data-note="despair">wanhope</dfn> and distresse.
 Farwel my lif, my <dfn data-note="delight">lust</dfn>, and my gladnesse!
 "Allas, why <dfn data-note="complain">pleynen</dfn> folk so in commune
 On <dfn data-note="foresight, providence">purveiaunce</dfn> of God, or of Fortune,
@@ -414,12 +414,12 @@ That if I myghte escapen from prisoun,
 Thanne hadde I been in joye and parfit <dfn data-note="well-being">heele</dfn>,
 Ther now I am exiled fro my <dfn data-note="prosperity">wele</dfn>.
 Syn that I may nat seen you, Emelye,
-I nam but deed; ther <dfn data-note="ne ys. is not">nys</dfn> no remedye."
+<dfn data-note="I am as good as dead">I nam but deed</dfn>; ther <dfn data-note="ne ys. is not">nys</dfn> no remedye."
 Upon that oother syde Palamon,
 Whan that he wiste Arcite was agon,
 Swich sorwe he maketh that the grete tour
-Resouneth of his <dfn data-note="howling">youlyng</dfn> and clamour.
-The pure fettres on his shynes <dfn data-note="large (probably to be construed with fetters )">grete</dfn>
+<dfn data-note="resounded with">Resouneth of</dfn> his <dfn data-note="howling">youlyng</dfn> and clamour.
+The <dfn data-note="very fetters">pure fettres</dfn> on his shynes <dfn data-note="large (probably to be construed with fetters )">grete</dfn>
 Weren of his bittre, salte teeres wete.
 "Allas,"" quod he, "Arcita, cosyn myn,
 Of al oure strif, God woot, the fruyt is thyn.
@@ -441,40 +441,40 @@ And eek with peyne that love me yeveth also,
 That doubleth al my torment and my wo."
 Therwith the fyr of jalousie up sterte
 Withinne his brest, and hente him by the herte
-So woodly that he <dfn data-note="to look upon was like">lyk was to biholde</dfn>
+So <dfn data-note="madly, passionately">woodly</dfn> that he <dfn data-note="to look upon was like">lyk was to biholde</dfn>
 The boxtree or the asshen dede and colde.
 Thanne seyde he, "O crueel goddes that governe
 This world with byndyng of youre word <dfn data-note="eternal">eterne</dfn>,
 And writen in the <dfn data-note="tablet of adamant (hardest of stones)">table of atthamaunt</dfn>
-Youre parlement and youre eterne <dfn data-note="decree">graunt</dfn>,
+Youre <dfn data-note="decision">parlement</dfn> and youre eterne <dfn data-note="decree">graunt</dfn>,
 What is mankynde moore unto you <dfn data-note="obligated">holde</dfn>
 Than is the sheep that <dfn data-note="cowers">rouketh</dfn> in the folde?
 For slayn is man right as another beest,
 And dwelleth eek in prison and <dfn data-note="restraint">arreest</dfn>, 
 And hath siknesse and greet adversitee,
-And ofte tymes giltelees, <dfn data-note="indeed">pardee</dfn>.
+And ofte tymes <dfn data-note="innocent">giltelees</dfn>, <dfn data-note="indeed">pardee</dfn>.
 ""What governance is in this prescience,
 <dfn data-note="What (sort of) governance is there in this (providential) foreknowledge (prescience) that (thus) torments guiltless innocence?">That giltelees tormenteth innocence?
 </dfn>
 And yet encresseth this al my <dfn data-note="suffering">penaunce</dfn>,
 That man is bounden to his <dfn data-note="duty">observaunce</dfn>,
 For Goddes sake, <dfn data-note="to refrain from his desire (R.)">to letten of his wille</dfn>,
-Ther as a beest may al his <dfn data-note="desire">lust</dfn> fulfille.
+<dfn data-note="whereas">Ther as</dfn> a beest may al his <dfn data-note="desire">lust</dfn> fulfille.
 And whan a beest is deed he hath no peyne;
 But man after his deeth moot wepe and <dfn data-note="lament">pleyne</dfn>,
 Though in this world he have care and wo.
 Withouten doute it may stonden so.
-The answere of this lete I to <dfn data-note="theologians">dyvynys</dfn>,
+The answere of this <dfn data-note="leave">lete</dfn> I to <dfn data-note="theologians">dyvynys</dfn>,
 But wel I woot that in this world greet <dfn data-note="pain">pyne</dfn> ys.
 Allas, I se a serpent or a theef,
-That many a trewe man hath doon <dfn data-note="wrong">mescheef</dfn>,
+That many a <dfn data-note="honest">trewe</dfn> man hath doon <dfn data-note="wrong">mescheef</dfn>,
 Goon <dfn data-note="freely">at his large</dfn>, and where hym list may turne.
 But I moot been in prisoun <dfn data-note="through, because of">thurgh</dfn> Saturne,
 And eek thurgh Juno, jalous and eek wood,
 That hath destroyed wel ny al the blood
 Of Thebes with his <dfn data-note="wasted, devastated">waste</dfn> walles wyde;
 And Venus sleeth me on that oother syde
-For jalousie and fere of <dfn data-note="this Arcite">hym Arcite</dfn>."
+For jalousie and <dfn data-note="fear">fere</dfn> of <dfn data-note="this Arcite">hym Arcite</dfn>."
 Now wol I <dfn data-note="cease (speaking) of">stynte of</dfn> Palamon a lite,
 And lete hym in his prisoun stille dwelle,
 And of Arcita forth I wol yow telle.
@@ -494,8 +494,8 @@ That oon may seen his lady day by day,
 But in prison he moot dwelle alway;
 That oother wher hym list may <dfn data-note="ride or walk">ride or go</dfn>,
 But seen his lady shal he nevere mo.
-Now demeth as yow liste, ye that <dfn data-note="know how">kan</dfn>,
-For I wol telle forth as I bigan. <br><span class="explicit"> Explicit prima pars </span> <br> <span class="explicit">  <dfn data-note="Here follows the second part.">Sequitur pars secunda</dfn> </span>
+Now <dfn data-note="judge">demeth</dfn> as yow liste, ye that <dfn data-note="know how">kan</dfn>,
+For I wol telle forth as I bigan. <br><span class="explicit"> <dfn data-note="Here ends the first part.">Explicit prima pars</dfn> </span> <br> <span class="explicit">  <dfn data-note="Here follows the second part.">Sequitur pars secunda</dfn> </span>
 Whan that Arcite to Thebes comen was,
 Ful ofte a day he <dfn data-note="grew faint">swelte</dfn> and seyde "Allas!"
 For seen his lady shal he nevere mo.
@@ -503,7 +503,7 @@ And shortly to concluden al his wo,
 So muche sorwe hadde nevere creature
 That is, or shal, whil that the world may <dfn data-note="last">dure</dfn>.
 His slep, his mete, his drynke, is hym <dfn data-note="taken away from">biraft</dfn>,
-That lene he wex and drye as is a <dfn data-note="stick">shaft</dfn>,
+That <dfn data-note="he became lean">lene he wex</dfn> and drye as is a <dfn data-note="stick">shaft</dfn>,
 His eyen <dfn data-note="sunken">holwe</dfn> and grisly to biholde,
 His hewe <dfn data-note="sickly yellow">falow</dfn> and pale as asshen colde,
 And solitarie he was and evere allone,
@@ -513,15 +513,15 @@ Thanne wolde he wepe, he myghte nat be <dfn data-note="stopped">stent</dfn>.
 So feble eek were his spiritz, and so lowe,
 And chaunged so, that no man koude knowe
 His speche nor his <dfn data-note="voice">voys</dfn>, though men it herde.
-And in his geere for al the world he <dfn data-note="behaved">ferde</dfn>
+And in his <dfn data-note="behavior">geere</dfn> for al the world he <dfn data-note="behaved">ferde</dfn>
 Nat oonly lik the <dfn data-note="love-sickness; see n. to lines 1355-76.">loveris maladye</dfn>
-Of Hereos, but rather lyk <dfn data-note="mania">manye</dfn>,
+<dfn data-note="love-sickness; see n. to lines 1355-76.">Of Hereos</dfn>, but rather lyk <dfn data-note="mania">manye</dfn>,
 Engendred of <dfn data-note="melancholy humor">humour malencolik</dfn>
 Biforen, in his <dfn data-note="the part of the brain that controls the imagination">celle fantastik</dfn>.
 And shortly, turned was al <dfn data-note="topsy turvy">up so doun</dfn>
 Bothe <dfn data-note="physical condition">habit</dfn> and eek disposicioun
 Of hym, this woful lovere <dfn data-note="sir">daun</dfn> Arcite.
-What sholde I al day of his wo <dfn data-note="write">endite</dfn>?
+What sholde I <dfn data-note="at length">al day</dfn> of his wo <dfn data-note="write">endite</dfn>?
 Whan he endured hadde a yeer or two
 This crueel torment and this peyne and wo,
 At Thebes, in his contree, as I seyde,
@@ -546,26 +546,26 @@ And saugh his visage al <dfn data-note="(changed) into another sort">in another 
 And right anon it ran hym in his mynde,
 That, <dfn data-note="since">sith</dfn> his face was so disfigured
 <dfn data-note="by illness">Of maladye</dfn> the which he hadde endured,
-He myghte wel, if that he <dfn data-note="conducted himself humbly">bar hym lowe</dfn>,
+He <dfn data-note="could">myghte</dfn> wel, if that he <dfn data-note="conducted himself humbly">bar hym lowe</dfn>,
 Lyve in Atthenes everemoore unknowe,
 And seen his lady wel ny day by day.
 And <dfn data-note="at once">right anon</dfn> he chaunged his array,
 And cladde hym as a povre laborer,
 And al allone, save oonly a squier
-That knew his privetee and al his <dfn data-note="situation">cas</dfn>,
+That knew his <dfn data-note="private affairs">privetee</dfn> and al his <dfn data-note="situation">cas</dfn>,
 Which was disgised <dfn data-note="poorly">povrely</dfn> as he was,
 To Atthenes is he goon the <dfn data-note="nearest">nexte</dfn> way.
 And to the court he wente upon a day,
 And at the gate he <dfn data-note="offers">profreth</dfn> his servyse
-To drugge and drawe, what so men wol <dfn data-note="command">devyse</dfn>.
+To <dfn data-note="drudge and draw water">drugge and drawe</dfn>, what so men wol <dfn data-note="command">devyse</dfn>.
 And shortly of this matere for to seyn,
-He fil in office with a <dfn data-note="household attendant">chamberleyn</dfn>
+He <dfn data-note="fell in service, was employed">fil in office</dfn> with a <dfn data-note="household attendant">chamberleyn</dfn>
 The which that dwellynge was with Emelye,
 For he was wys and koude soone <dfn data-note="take notice, take the measure of">espye,</dfn>
 <dfn data-note="take notice, take the measure of">Of</dfn> every servaunt, which that serveth here.
 Wel koude he hewen wode, and water <dfn data-note="bear, carry">bere</dfn>,
 For he was yong and myghty for the nones,
-And therto he was long and <dfn data-note="strong">big</dfn> of bones
+And therto he was <dfn data-note="tall">long</dfn> and <dfn data-note="strong">big</dfn> of bones
 To doon that any <dfn data-note="person">wight</dfn> kan hym devyse.
 A yeer or two he was in this servyse,
 <dfn data-note="personal servant">Page of the chambre</dfn> of Emelye the brighte,
@@ -595,7 +595,7 @@ And speke I wole of Palamon a lite.
 In derknesse and horrible and strong prisoun
 Thise seven yeer hath seten Palamoun
 <dfn data-note="wasted by suffering">Forpyned</dfn>, what for wo and for distresse.
-Who feeleth double soor and <dfn data-note="sadness">hevynesse</dfn>
+Who feeleth double <dfn data-note="pain">soor</dfn> and <dfn data-note="sadness">hevynesse</dfn>
 But Palamon, that love <dfn data-note="afflicts">destreyneth</dfn> so
 That wood out of his wit he goth for wo?
 And eek therto he is a prisoner
@@ -636,14 +636,14 @@ The bisy larke, messager of day,
 Salueth in hir song the morwe gray,
 And firy Phebus riseth up so bright
 That al the orient laugheth of the light,
-And with his stremes dryeth in the <dfn data-note="groves">greves</dfn>
+And with his <dfn data-note="rays">stremes</dfn> dryeth in the <dfn data-note="groves">greves</dfn>
 The silver dropes hangynge on the leves.
 And Arcita, that in the court roial
 With Theseus is squier principal,
 Is risen and looketh on the myrie day.
 And for to doon his observaunce to May,
 Remembrynge on the poynt of his desir,
-He on a courser, <dfn data-note="leaping about">startlynge</dfn> as the fir,
+He on a <dfn data-note="war-horse, charger">courser</dfn>, <dfn data-note="leaping about">startlynge</dfn> as the fir,
 Is riden into the feeldes hym to pleye,
 Out of the court, were it a myle or tweye.
 And to the grove of which that I yow tolde
@@ -665,19 +665,19 @@ God woot he wolde have trowed it ful lite.
 But sooth is seyd, <dfn data-note="since many years ago">go sithen many yeres</dfn>,
 That "feeld hath eyen and the wode hath eres."
 It is ful fair a man to <dfn data-note="act calmly, moderately">bere hym evene</dfn>,
-For al day meeteth men <dfn data-note="with an unexpected (not set) time">at unset stevene</dfn>.
+For al day <dfn data-note="people meet">meeteth men</dfn> <dfn data-note="with an unexpected (not set) time">at unset stevene</dfn>.
 Ful litel woot Arcite of his felawe,
 That was so ny to herknen al his <dfn data-note="speech">sawe</dfn>,
 For in the bussh he sitteth now ful stille.
 Whan that Arcite hadde romed al his fille,
 And songen al the <dfn data-note="a short poetic and musical form; for an example, see PF 680-92.">roundel</dfn> lustily,
 Into a studie he fil <dfn data-note="suddenly">sodeynly</dfn>,
-As doon thise loveres in hir <dfn data-note="strange manners">queynte geres</dfn>,
-Now in the crope, now doun in the <dfn data-note="briars">breres</dfn>,
+As doon <dfn data-note="lovers in general">thise loveres</dfn> in hir <dfn data-note="strange manners">queynte geres</dfn>,
+Now in the <dfn data-note="leaves (top)">crope</dfn>, now doun in the <dfn data-note="briars">breres</dfn>,
 Now up, now doun, as <dfn data-note="bucket">boket</dfn> in a welle.
 Right as the Friday, soothly for to telle,
 Now it shyneth, now it reyneth faste,
-Right so kan geery Venus <dfn data-note="sadden">overcaste</dfn>
+Right so kan <dfn data-note="fickle">geery</dfn> Venus <dfn data-note="sadden">overcaste</dfn>
 The hertes of hir folk; right as hir day
 Is <dfn data-note="changeable">gereful</dfn>, right so chaungeth she array.
 Selde is the Friday al the wowke ylike.
@@ -692,8 +692,8 @@ Of Cadmus, which that was the firste man
 That Thebes bulte, <dfn data-note="ere">or</dfn> first the toun bigan,
 And of the citee first was crouned kyng.
 Of his lynage am I and his ofspryng
-By verray ligne, as of the <dfn data-note="stock, family">stok</dfn> roial,
-And now I am so caytyf and so <dfn data-note="enslaved">thral</dfn>,
+By <dfn data-note="true lineage">verray ligne</dfn>, as of the <dfn data-note="stock, family">stok</dfn> roial,
+And now I am so <dfn data-note="wretched captive">caytyf</dfn> and so <dfn data-note="enslaved">thral</dfn>,
 That he that is my mortal enemy,
 I serve hym as his squier <dfn data-note="poor">povrely</dfn>.
 And yet dooth Juno me wel moore shame,
@@ -706,12 +706,12 @@ Save oonly me and wrecched Palamoun,
 That Theseus <dfn data-note="torments">martireth</dfn> in prisoun.
 And over al this, to <dfn data-note="slay, kill">sleen</dfn> me outrely
 Love hath his firy dart so <dfn data-note="ardently">brennyngly</dfn>
-Ystiked thurgh my trewe, <dfn data-note="sorrowful">careful</dfn> herte
+<dfn data-note="struck, stabbed">Ystiked</dfn> thurgh my <dfn data-note="faithful">trewe</dfn>, <dfn data-note="sorrowful">careful</dfn> herte
 That shapen was my deeth erst than my sherte.
 Ye sleen me with youre eyen, Emelye!
 Ye been the cause wherfore that I dye.
 Of al the remenant of myn oother care
-Ne sette I nat the montance of a <dfn data-note="weed (i.e., nothing)">tare</dfn>,
+Ne sette I nat the <dfn data-note="amount, value">montance</dfn> of a <dfn data-note="weed (i.e., nothing)">tare</dfn>,
 So that I koude doon aught to youre <dfn data-note="pleasure">plesaunce</dfn>.""
 And with that word he fil doun in a traunce
 A longe tyme, and after he up sterte.
@@ -734,7 +734,7 @@ But I wol love hire oonly and <dfn data-note="no others">namo</dfn>;
 For I am Palamon, thy mortal foo.
 And though that I no <dfn data-note="weapons">wepene</dfn> have in this place,
 But out of prison am <dfn data-note="escaped">astert</dfn> by grace,
-I drede noght that <dfn data-note="either">outher</dfn> thow shalt dye,
+I <dfn data-note="doube">drede</dfn> noght that <dfn data-note="either">outher</dfn> thow shalt dye,
 Or thow ne shalt nat loven Emelye.
 <dfn data-note="choose">Chees</dfn> which thou wolt, or thou shalt nat asterte!"
 This Arcite, with ful <dfn data-note="scornful">despitous</dfn> herte,
@@ -745,12 +745,12 @@ Nere it that thou art <dfn data-note="sick">sik</dfn> and wood for love,
 And eek that thow no wepne hast in this place,
 Thou sholdest nevere out of this grove pace,
 That thou ne sholdest dyen of myn hond.
-For I defye the <dfn data-note="pledge">seurete</dfn> and the bond
+For I <dfn data-note="repudiate">defye</dfn> the <dfn data-note="pledge">seurete</dfn> and the bond
 Which that thou seist that I have maad to thee.
 <dfn data-note="an exclamation">What!</dfn> Verray fool, thynk wel that love is free,
 And I wol love hire <dfn data-note="in spite of">maugree</dfn> al thy myght!
 But for as muche thou art a worthy knyght
-And wilnest to <dfn data-note="decide the right to her">darreyne hire</dfn> by bataille,
+And <dfn data-note="desire">wilnest</dfn> to <dfn data-note="decide the right to her">darreyne hire</dfn> by bataille,
 Have heer my <dfn data-note="pledge">trouthe</dfn>; tomorwe I wol nat faille,
 Withoute <dfn data-note="knowledge">wityng</dfn> of any oother wight,
 That heere I wol be founden as a knyght,
@@ -767,12 +767,12 @@ Whan ech of hem had leyd his feith <dfn data-note="as a pledge">to borwe</dfn>.
 O Cupide, out of alle charitee!
 O regne, that wolt no felawe have with thee!
 Ful sooth is seyd that love ne lordshipe
-Wol noght, his thankes, have no <dfn data-note="equal partnership">felaweshipe</dfn>.
+Wol noght, <dfn data-note="willingly">his thankes</dfn>, have no <dfn data-note="equal partnership">felaweshipe</dfn>.
 Wel fynden that Arcite and Palamoun.
 Arcite is riden anon unto the toun,
 And on the morwe, er it were dayes light,
-Ful prively two harneys hath he <dfn data-note="prepared">dight</dfn>,
-Bothe suffisaunt and mete to <dfn data-note="engage in, decide the battle">darreyne</dfn>
+Ful prively <dfn data-note="two suits of armor">two harneys</dfn> hath he <dfn data-note="prepared">dight</dfn>,
+Bothe suffisaunt and <dfn data-note="suitable, fitting">mete</dfn> to <dfn data-note="engage in, decide the battle">darreyne</dfn>
 <dfn data-note="engage in, decide the battle">The bataille</dfn> in the feeld bitwix hem tweyne;
 And on his hors, allone as he was born,
 He carieth al the harneys hym biforn.
@@ -795,7 +795,7 @@ But streight, withouten word or <dfn data-note="conversation">rehersyng</dfn>,
 Everich of hem heelp for to armen oother
 As freendly as he were his owene brother;
 And after that, with sharpe speres stronge
-They foynen <dfn data-note="at each other">ech at oother</dfn> wonder longe.
+They <dfn data-note="thrust">foynen</dfn> <dfn data-note="at each other">ech at oother</dfn> wonder longe.
 Thou myghtest <dfn data-note="suppose">wene</dfn> that this Palamon
 In his fightyng were a wood leon,
 And as a crueel tigre was Arcite;
@@ -814,7 +814,7 @@ That falleth nat <dfn data-note="again">eft</dfn> withinne a thousand yeer.
 For certeinly, oure appetites heer,
 Be it of werre, or pees, or hate, or love,
 Al is this reuled by the <dfn data-note="foresight">sighte</dfn> above.
-This mene I now <dfn data-note="concerning">by</dfn> myghty Theseus,
+This <dfn data-note="say">mene</dfn> I now <dfn data-note="concerning">by</dfn> myghty Theseus,
 That for to hunten is so desirus,
 And namely at the <dfn data-note="large hart, worthy of hunting">grete hert</dfn> in May,
 That in his bed ther <dfn data-note="dawns for him">daweth hym</dfn> no day
@@ -823,7 +823,7 @@ With <dfn data-note="huntsman">hunte</dfn> and horn and houndes hym bisyde.
 For in his huntyng hath he swich delit
 That it is al his joye and appetit
 To been hymself the grete hertes <dfn data-note="killer">bane</dfn>,
-For after Mars he serveth now <dfn data-note="Diana, goddess of hunting">Dyane</dfn>.
+For <dfn data-note="next to Mars, the god of war">after Mars</dfn> he serveth now <dfn data-note="Diana, goddess of hunting">Dyane</dfn>.
 Cleer was the day, as I have toold er this,
 And Theseus with alle joye and blis,
 With his Ypolita, the faire queene,
@@ -880,13 +880,13 @@ That hath thy prisoun broken wikkedly.
 I am thy mortal foo, and it am I
 That loveth so <dfn data-note="passionately">hoote</dfn> Emelye the brighte
 That I wol dye present in hir sighte.
-Wherfore I axe deeth and my <dfn data-note="judicial sentence">juwise</dfn>;
+Wherfore I <dfn data-note="ask">axe</dfn> deeth and my <dfn data-note="judicial sentence">juwise</dfn>;
 But sle my felawe in the same wise,
 For bothe han we deserved to be slayn."
 This worthy duc answerde anon agayn,
 And seyde, "This is a short conclusioun.
 Youre owene mouth, by youre confessioun,
-Hath dampned yow, and I wol it <dfn data-note="pronounce">recorde</dfn>;
+Hath <dfn data-note="condemned">dampned</dfn> yow, and I wol it <dfn data-note="pronounce">recorde</dfn>;
 It nedeth noght <dfn data-note="to torture you (to force a confession) with a cord (twisted about your heads)">to pyne yow with the corde</dfn>.
 Ye shal be deed, by myghty Mars the rede!"
 The queene anon, for verray <dfn data-note="womanliness (having the qualities proper to a woman)">wommanhede</dfn>,
@@ -903,7 +903,7 @@ And on hir bare knees adoun they falle
 And wolde have kist his feet ther as he stood;
 Til at the laste <dfn data-note="calmed">aslaked</dfn> was his mood,
 For pitee <dfn data-note="moves">renneth</dfn> soone in gentil herte.
-And though he first for ire quook and <dfn data-note="trembled">sterte</dfn>,
+And though he first for ire <dfn data-note="shook">quook</dfn> and <dfn data-note="trembled">sterte</dfn>,
 He hath considered shortly, <dfn data-note="briefly">in a clause</dfn>,
 The trespas of hem bothe, and eek the cause,
 And although that his ire hir gilt accused,
@@ -922,7 +922,7 @@ As wel as to a proud despitous man
 That wol <dfn data-note="persist in">mayntene</dfn> that he first bigan.
 That lord hath litel of <dfn data-note="sound judgment">discrecioun</dfn>,
 That in swich cas <dfn data-note="knows no distinctions">kan no divisioun</dfn>
-But weyeth pride and humblesse <dfn data-note="alike">after oon</dfn>."
+But <dfn data-note="weighs">weyeth</dfn> pride and humblesse <dfn data-note="alike">after oon</dfn>."
 And shortly, whan his ire is thus agoon,
 He gan to looken up with eyen lighte
 And spak thise same wordes al <dfn data-note="aloud">on highte</dfn>:
@@ -982,7 +982,7 @@ That oon of you, <dfn data-note="whether he likes it or not">al be hym looth or 
 He moot go pipen in an yvy leef;
 This is to seyn, she may nat now han bothe,
 Al be ye never so jalouse ne so <dfn data-note="angr&#x27;">wrothe</dfn>. 
-And forthy I yow putte in this <dfn data-note="situation">degree</dfn>,
+And <dfn data-note="therelore">forthy</dfn> I yow putte in this <dfn data-note="situation">degree</dfn>,
 That ech of yow shal have his destynee
 As hym is shape, and herkneth in what <dfn data-note="manner">wyse</dfn>;
 Lo, heere youre ende of that I shal devyse.
@@ -993,7 +993,7 @@ That everich of you shal goon where hym leste
 Frely, withouten raunson or <dfn data-note="resistance">daunger</dfn>,
 And this day fifty wykes, <dfn data-note="more or less; see n.">fer ne ner</dfn>,
 Everich of you shal brynge an hundred knyghtes
-Armed for lystes up <dfn data-note="in all respects">at alle rightes</dfn>,
+Armed <dfn data-note="for battle in the lists">for lystes</dfn> up <dfn data-note="in all respects">at alle rightes</dfn>,
 Al redy to <dfn data-note="decide the right to her">darreyne hire</dfn> by bataille.
 And this <dfn data-note="promise">bihote</dfn> I yow withouten faille,
 Upon my trouthe, and as I ama knyght,
@@ -1009,7 +1009,7 @@ As I shal <dfn data-note="impartial">evene</dfn> juge been and trewe.
 Ye <dfn data-note="shall">shul</dfn> noon oother ende with me maken,
 That oon of yow ne shal be deed or taken.
 And if yow thynketh this is weel ysayd,
-Seyeth youre avys, and holdeth you <dfn data-note="satisfied">apayd</dfn>.
+Seyeth youre <dfn data-note="opinion">avys</dfn>, and holdeth you <dfn data-note="satisfied">apayd</dfn>.
 This is youre ende and youre conclusioun."
 Who looketh <dfn data-note="cheerfully">lightly</dfn> now but Palamoun?
 Who spryngeth up for joye but Arcite?
@@ -1021,7 +1021,7 @@ And thonked hym with al hir herte and myght,
 And namely the Thebans often sithe.
 And thus with good hope and with herte blithe
 They taken hir leve, and homward gonne they ride
-To Thebes with his olde walles wyde. <br><span class="explicit"> Explicit secunda pars  </span> <br><span class="explicit"> <dfn data-note="Here follows the third part.">Sequitur pars tercia</dfn>  </span> 
+To Thebes with his olde walles wyde. <br><span class="explicit"> <dfn data-note="Here ends the second part.">Explicit secunda pars</dfn>  </span> <br><span class="explicit"> <dfn data-note="Here follows the third part.">Sequitur pars tercia</dfn>  </span> 
 I trowe men wolde deme it necligence
 If I foryete to tellen the <dfn data-note="expenditures">dispence</dfn>
 Of Theseus, that gooth so bisily
@@ -1031,7 +1031,7 @@ I dar wel seyen in this world ther nas.
 The circuit a myle was aboute,
 Walled of stoon, and <dfn data-note="surrounded by a ditch">dyched</dfn> al withoute.
 Round was the shap, in <dfn data-note="the shape of a circle">manere of compas</dfn>,
-Ful of degrees, the heighte of sixty <dfn data-note="paces">pas</dfn>, 
+Ful of <dfn data-note="tiers, rows of seats">degrees</dfn>, the heighte of sixty <dfn data-note="paces">pas</dfn>, 
 That whan a man was set on o degree,
 He <dfn data-note="hindered">letted</dfn> nat his felawe for to see.
 Estward ther stood a gate of marbul whit,
@@ -1039,14 +1039,14 @@ Westward right swich another in the opposit.
 And shortly to concluden, swich a place 
 Was noon in erthe, as in so litel <dfn data-note="time">space</dfn>;
 For in the lond ther was no <dfn data-note="skillful, ingenious">crafty</dfn> man
-That geometrie or ars-metrike <dfn data-note="knows">kan</dfn>,
-Ne portreyour, ne <dfn data-note="sculptor">kervere of ymages</dfn>,
+That geometrie or <dfn data-note="art of measurement (arithmetic)">ars-metrike</dfn> <dfn data-note="knows">kan</dfn>,
+Ne <dfn data-note="painter">portreyour</dfn>, ne <dfn data-note="sculptor">kervere of ymages</dfn>,
 That Theseus ne yaf him mete and wages
 The theatre for to maken and <dfn data-note="contrive">devyse</dfn>.
 And for to doon his ryte and sacrifise,
 He estward hath, upon the gate above,
 In worshipe of Venus, goddesse of love,
-Doon make an auter and an <dfn data-note="shrine, chapel">oratorie</dfn>;
+Doon make an <dfn data-note="altar">auter</dfn> and an <dfn data-note="shrine, chapel">oratorie</dfn>;
 And on the gate westward, in memorie
 Of Mars, he maked hath right swich another,
 That coste largely of gold a <dfn data-note="cartload">fother</dfn>.
@@ -1056,7 +1056,7 @@ An oratorie, riche for to see,
 In worshipe of <dfn data-note="the chaste Diana">Dyane of chastitee</dfn>,
 Hath Theseus <dfn data-note="had made">doon wroght</dfn> in noble wyse.
 But yet hadde I foryeten to devyse
-The noble kervyng and the <dfn data-note="paintings">portreitures</dfn>,
+The noble <dfn data-note="sculpture">kervyng</dfn> and the <dfn data-note="paintings">portreitures</dfn>,
 The shap, the <dfn data-note="appearance">contenaunce</dfn>, and the figures
 That weren in thise oratories thre.
 First in the temple of Venus maystow se
@@ -1069,8 +1069,8 @@ The othes that hir <dfn data-note="agreements">covenantz</dfn> assuren;
 <dfn data-note="Pleasure, amusement">Plesaunce</dfn> and Hope, Desir, Foolhardynesse,
 Beautee and Youthe, <dfn data-note="Mirth, jollity">Bauderie</dfn>, Richesse,
 Charmes and Force, <dfn data-note="Falsehood, deceit">Lesynges</dfn>, Flaterye,
-Despense, <dfn data-note="attentiveness">Bisynesse</dfn>, and Jalousye,
-That wered of yelewe <dfn data-note="marigolds">gooldes</dfn> a gerland,
+<dfn data-note="expenditures">Despense</dfn>, <dfn data-note="attentiveness">Bisynesse</dfn>, and Jalousye,
+That wered of <dfn data-note="yellow">yelewe</dfn> <dfn data-note="marigolds">gooldes</dfn> a gerland,
 And a <dfn data-note="cuckoo (a symbol of cuckoldry)">cokkow</dfn> sittynge on hir hand;
 Festes, instrumentz, <dfn data-note="dance-songs">caroles</dfn>, daunces,
 Lust and array, and alle the circumstaunces
@@ -1083,13 +1083,13 @@ Was shewed on the wal in portreyynge,
 With al the gardyn and the <dfn data-note="pleasure">lustynesse</dfn>.
 Nat was foryeten the porter, Ydelnesse,
 Ne <dfn data-note="Narcissus, for whom the nymph Echo died; for the story, see Rom 1469-1638.">Narcisus</dfn> the faire of yore agon,
-Ne yet the folye of kyng <dfn data-note="Solomon, who had many wives">Salomon</dfn>,
+Ne yet the <dfn data-note="lechery">folye</dfn> of kyng <dfn data-note="Solomon, who had many wives">Salomon</dfn>,
 Ne yet the grete strengthe of <dfn data-note="Hercules, whose beloved killed him; see MkT VII.2095-142.">Ercules</dfn> —
 Th’enchauntementz of <dfn data-note="famous sorceresses, who tried to hold their loves by magic">Medea and Circes</dfn> —
 Ne of <dfn data-note="whose love for Lavinia led to his fatal duel with Aeneas; cf. HF 457-58.">Turnus</dfn>, with the hardy fiers corage,
 The riche <dfn data-note="Croesus, wretched in captivity; see MkT VII.2727-66.">Cresus, kaytyf in servage</dfn>.
 Thus may ye seen that wysdom ne richesse,
-Beautee ne sleighte, strengthe ne <dfn data-note="bravery">hardynesse</dfn>,
+Beautee ne <dfn data-note="trickery">sleighte</dfn>, strengthe ne <dfn data-note="bravery">hardynesse</dfn>,
 Ne may with Venus holde <dfn data-note="parmership in power">champartie</dfn>,
 For as hir list the world than may she <dfn data-note="rule">gye</dfn>.
 Lo, alle thise folk so caught were in hir <dfn data-note="snare">las</dfn>,
@@ -1118,34 +1118,34 @@ In thilke colde, frosty regioun
 Ther as Mars hath his <dfn data-note="best, most excellent">sovereyn</dfn> mansioun.
 First on the wal was peynted a forest, 
 In which ther dwelleth neither man ne best,
-With knotty, knarry, <dfn data-note="barren">bareyne</dfn> trees olde,
+With knotty, <dfn data-note="gnarled">knarry</dfn>, <dfn data-note="barren">bareyne</dfn> trees olde,
 Of <dfn data-note="stumps">stubbes</dfn> sharpe and hidouse to biholde,
-In which ther ran a rumbel in a <dfn data-note="sound of wind">swough</dfn>,
+In which ther ran a <dfn data-note="rumbling noise">rumbel</dfn> in a <dfn data-note="sound of wind">swough</dfn>,
 As though a storm sholde <dfn data-note="burst">bresten</dfn> every bough.
-And dounward from an hille, under a <dfn data-note="grassy slope">bente</dfn>,
+And dounward from an hille, <dfn data-note="close to">under</dfn> a <dfn data-note="grassy slope">bente</dfn>,
 Ther stood the temple of Mars <dfn data-note="powerful in arms">armypotente</dfn>,
 Wroght al of <dfn data-note="burnished">burned</dfn> steel, of which the entree
-Was long and streit, and <dfn data-note="terrifying">gastly</dfn> for to see.
-And therout came a rage and swich a <dfn data-note="rush, blast">veze</dfn>
+Was long and <dfn data-note="narrow, small">streit</dfn>, and <dfn data-note="terrifying">gastly</dfn> for to see.
+And therout came a <dfn data-note="rush of wind">rage</dfn> and swich a <dfn data-note="rush, blast">veze</dfn>
 That it made al the gate for to <dfn data-note="shake">rese</dfn>.
 The <dfn data-note="light from the north">northren lyght</dfn> in at the dores shoon,
 For wyndowe on the wal ne was ther noon,
 Thurgh which men myghten any light discerne.
 The dore was al of <dfn data-note="the hardest of stones">adamant</dfn> eterne,
-Yclenched overthwart and <dfn data-note="lengthwise">endelong</dfn>
+<dfn data-note="bound, clinched">Yclenched</dfn> <dfn data-note="crosswise">overthwart</dfn> and <dfn data-note="lengthwise">endelong</dfn>
 With iren tough; and for to make it strong,
-Every pyler, the temple to <dfn data-note="sustain, support">sustene</dfn>,
+Every <dfn data-note="pillar">pyler</dfn>, the temple to <dfn data-note="sustain, support">sustene</dfn>,
 Was <dfn data-note="big around as a large barrel">tonne-greet</dfn>, of iren bright and shene.
 Ther saugh I first the <dfn data-note="malicious plotting">derke ymaginyng</dfn>
-Of Felonye, and al the <dfn data-note="scheming">compassyng</dfn>;
+Of <dfn data-note="Wickedness">Felonye</dfn>, and al the <dfn data-note="scheming">compassyng</dfn>;
 The crueel Ire, reed as any <dfn data-note="glowing coal">gleede</dfn>;
-The pykepurs, and eek the pale <dfn data-note="Fear">Drede</dfn>;
+The <dfn data-note="pick-purse, thief">pykepurs</dfn>, and eek the pale <dfn data-note="Fear">Drede</dfn>;
 The smylere with the knyf under the cloke;
 The <dfn data-note="stable">shepne</dfn> brennynge with the blake smoke;
 The tresoun of the <dfn data-note="murder">mordrynge</dfn> in the bedde;
 The open werre, <dfn data-note="all covered with blood from wounds">with woundes al bibledde</dfn>;
 <dfn data-note="strife">Contek</dfn>, with blody knyf and sharp manace.
-Al ful of chirkyng was that <dfn data-note="sorry, wretched">sory</dfn> place.
+Al ful of <dfn data-note="groaning, creaking">chirkyng</dfn> was that <dfn data-note="sorry, wretched">sory</dfn> place.
 The <dfn data-note="slayer">sleere</dfn> of hymself yet saugh I ther —
 His herte-blood hath bathed al his heer —
 The nayl ydryven in the <dfn data-note="parting of the hair, temple">shode</dfn> anyght,
@@ -1153,13 +1153,13 @@ The colde deeth, with mouth gapyng <dfn data-note="upwards">upright</dfn>.
 Amyddes of the temple sat <dfn data-note="Misfortune">Meschaunce</dfn>,
 With disconfort and sory contenaunce.
 Yet saugh I <dfn data-note="Madness">Woodnesse</dfn>, laughynge in his rage,
-Armed Compleint, Outhees, and fiers <dfn data-note="Violence, excessive cruelty">Outrage</dfn>;
-The careyne in the busk, with throte <dfn data-note="cut">ycorve</dfn>;
+Armed <dfn data-note="Grievance, discontent">Compleint</dfn>, <dfn data-note="Outcry, alarm">Outhees</dfn>, and fiers <dfn data-note="Violence, excessive cruelty">Outrage</dfn>;
+The <dfn data-note="corpse">careyne</dfn> in the <dfn data-note="woods">busk</dfn>, with throte <dfn data-note="cut">ycorve</dfn>;
 A thousand slayn, and nat <dfn data-note="killed by the plague">of qualm ystorve</dfn>;
-The tiraunt, with the pray by force <dfn data-note="taken away">yraft</dfn>,
+The tiraunt, with the <dfn data-note="prey">pray</dfn> by force <dfn data-note="taken away">yraft</dfn>,
 The toun destroyed, ther was no thyng laft.
-Yet saugh I brent the shippes <dfn data-note="dancing (on a stormy sea)">hoppesteres</dfn>;
-The hunte <dfn data-note="killed by">strangled with</dfn> the wilde beres;
+Yet saugh I <dfn data-note="burned">brent</dfn> the shippes <dfn data-note="dancing (on a stormy sea)">hoppesteres</dfn>;
+The <dfn data-note="hunter">hunte</dfn> <dfn data-note="killed by">strangled with</dfn> the wilde beres;
 The sowe <dfn data-note="devour">freten</dfn> the child right in the cradel;
 The cook yscalded, <dfn data-note="despite his long-handled spoon">for al his longe ladel</dfn>.
 Noght was foryeten by the <dfn data-note="evil influence of Mars">infortune of Marte</dfn>.
@@ -1176,11 +1176,11 @@ Depeynted was the slaughtre of <dfn data-note="the Roman emperors">Julius,</dfn>
 <dfn data-note="the Roman emperors">Of grete Nero, and of Antonius;</dfn>
 Al be that thilke tyme they were unborn,
 Yet was hir deth depeynted ther-biforn
-By manasynge of Mars, right <dfn data-note="according to the configuration of the planets; &quot;perhaps a technical reference to a horoscope&quot; (R.)">by figure</dfn>;
+By <dfn data-note="menace, threat">manasynge</dfn> of Mars, right <dfn data-note="according to the configuration of the planets; &quot;perhaps a technical reference to a horoscope&quot; (R.)">by figure</dfn>;
 So was it shewed in that <dfn data-note="painting">portreiture</dfn>,
 As is depeynted in the sterres above
 Who shal be slayn or elles deed for love.
-Suffiseth oon ensample in <dfn data-note="histories">stories</dfn> olde;
+Suffiseth oon <dfn data-note="illustrative story">ensample</dfn> in <dfn data-note="histories">stories</dfn> olde;
 I may nat rekene hem alle though I wolde.
 The statue of Mars upon a <dfn data-note="chariot">carte</dfn> stood
 Armed, and looked grym as he were wood;
@@ -1219,7 +1219,7 @@ The which me list nat drawen to memorie.
 This goddesse on an hert ful hye <dfn data-note="sat">seet</dfn>,
 With smale houndes al aboute hir feet,
 And undernethe hir feet she hadde a moone —
-Wexynge it was and sholde <dfn data-note="wane">wanye</dfn> soone.
+<dfn data-note="waxing">Wexynge</dfn> it was and sholde <dfn data-note="wane">wanye</dfn> soone.
 In <dfn data-note="yellowish">gaude</dfn> grene hir statue clothed was,
 With bowe in honde and arwes in a cas.
 Hir eyen caste she ful lowe adoun
@@ -1229,7 +1229,7 @@ But for hir child so longe was unborn,
 Ful pitously <dfn data-note="Lucina, Diana as goddess of childbirth">Lucyna</dfn> gan she calle
 And seyde, "Help, for <dfn data-note="you are best able, have most power">thou mayst best</dfn> of alle!"
 Wel koude he peynten lifly that it wroghte;
-With many a floryn he the <dfn data-note="pigments">hewes</dfn> boghte.
+With many a <dfn data-note="florin, a gold coin">floryn</dfn> he the <dfn data-note="pigments">hewes</dfn> boghte.
 Now been thise lystes maad, and Theseus,
 That at his grete cost <dfn data-note="prepared">arrayed</dfn> thus
 The temples and the theatre <dfn data-note="in all respects">every deel</dfn>,
@@ -1242,13 +1242,13 @@ The bataille to <dfn data-note="decide">darreyne</dfn>, as I yow tolde.
 And til Atthenes, hir covenant for to holde,
 Hath everich of hem broght an hundred knyghtes,
 Wel armed for the werre <dfn data-note="in all respects">at alle rightes</dfn>.
-And sikerly ther <dfn data-note="believed">trowed</dfn> many a man
+And <dfn data-note="truly">sikerly</dfn> ther <dfn data-note="believed">trowed</dfn> many a man
 That nevere, sithen that the world bigan,
 As for to speke of knyghthod <dfn data-note="of the deeds of their hand, their prowess">of hir hond</dfn>,
 As fer as God hath maked see or lond,
 Nas of so fewe so noble a compaignye.
 For every wight that lovede chivalrye
-And wolde, his thankes, han a <dfn data-note="outstanding reputation">passant name</dfn>,
+And wolde, <dfn data-note="willingly">his thankes</dfn>, han a <dfn data-note="outstanding reputation">passant name</dfn>,
 Hath preyed that he myghte been of that game;
 And wel was hym that therto chosen was,
 For if ther fille tomorwe swich a cas,
@@ -1260,7 +1260,7 @@ To fighte for a lady, benedicitee!
 It were a <dfn data-note="pleasing">lusty</dfn> sighte for to see.
 And right so ferden they with Palamon.
 With hym ther wenten knyghtes many on;
-Som wol ben armed in an <dfn data-note="coat of mail">haubergeoun</dfn>,
+<dfn data-note="a certain one">Som</dfn> wol ben armed in an <dfn data-note="coat of mail">haubergeoun</dfn>,
 And in a brestplate and a light <dfn data-note="tunic">gypoun</dfn>;
 And som wol have a <dfn data-note="set of plate armor">paire plates</dfn> large;
 And som wol have a <dfn data-note="Prussian">Pruce</dfn> sheeld or a targe;
@@ -1276,41 +1276,41 @@ The cercles of his eyen in his heed,
 They gloweden bitwixen yelow and reed,
 And lik a <dfn data-note="griffin (mythical beast with the body of a lion and the head of an eagle)">grifphon</dfn> looked he aboute,
 With <dfn data-note="shaggy">kempe</dfn> heeris on his browes stoute;
-His lymes grete, his <dfn data-note="muscles">brawnes</dfn> harde and stronge,
+His <dfn data-note="large limbs">lymes grete</dfn>, his <dfn data-note="muscles">brawnes</dfn> harde and stronge,
 His shuldres brode, his armes rounde and longe;
 And as the gyse was in his contree,
 Ful hye upon a <dfn data-note="chariot">chaar</dfn> of gold stood he,
-With foure white boles in the <dfn data-note="traces, harness">trays</dfn>.
+With foure white <dfn data-note="bulls">boles</dfn> in the <dfn data-note="traces, harness">trays</dfn>.
 In stede of <dfn data-note="a tunic embroidered with a heraldic device, worn over the armor">cote-armure</dfn> over his harnays,
-With nayles <dfn data-note="yellow">yelewe</dfn> and brighte as any gold,
-He hadde a beres skyn, col-blak <dfn data-note="because of age">for old</dfn>.
+With <dfn data-note="rivets">nayles</dfn> <dfn data-note="yellow">yelewe</dfn> and brighte as any gold,
+He hadde a beres skyn, <dfn data-note="coal-black">col-blak</dfn> <dfn data-note="because of age">for old</dfn>.
 His longe heer was <dfn data-note="combed">kembd</dfn> bihynde his bak;
 As any ravenes fethere it shoon <dfn data-note="because of blackness">for blak</dfn>;
-A wrethe of gold, arm-greet, of huge <dfn data-note="weight">wighte</dfn>,
+A wrethe of gold, <dfn data-note="thick as an arm">arm-greet</dfn>, of huge <dfn data-note="weight">wighte</dfn>,
 Upon his heed, set ful of stones brighte,
 Of fyne rubyes and of <dfn data-note="diamonds">dyamauntz</dfn>.
 Aboute his chaar ther wenten white <dfn data-note="wolfhounds">alauntz</dfn>,
 Twenty and mo, as grete as any steer,
 To hunten at the leoun or the deer,
 And folwed hym with <dfn data-note="muzzle">mosel</dfn> faste ybounde,
-Colered of gold, and tourettes <dfn data-note="smoothed">fyled</dfn> rounde.
+<dfn data-note="wearing collars">Colered</dfn> of gold, and <dfn data-note="rings for leashes">tourettes</dfn> <dfn data-note="smoothed">fyled</dfn> rounde.
 An hundred lordes hadde he in his <dfn data-note="company">route</dfn>,
 Armed ful wel, with hertes <dfn data-note="stern, cruel">stierne</dfn> and stoute.
 With Arcita, in stories as men fynde,
 The grete Emetreus, the kyng of <dfn data-note="India">Inde</dfn>,
-Upon a steede bay <dfn data-note="equipped with trappings">trapped</dfn> in steel,
+Upon a steede <dfn data-note="reddish-brown">bay</dfn> <dfn data-note="equipped with trappings">trapped</dfn> in steel,
 Covered in clooth of gold, <dfn data-note="decorated with small geometric patterns">dyapred</dfn> weel,
 Cam ridynge lyk the god of armes, Mars.
 His cote-armure was of <dfn data-note="silk from Tarsia in Turkestan">clooth of Tars</dfn>
-Couched with <dfn data-note="pearls">perles</dfn> white and rounde and grete;
-His sadel was of brend gold newe <dfn data-note="adorned">ybete</dfn>;
+<dfn data-note="adorned">Couched</dfn> with <dfn data-note="pearls">perles</dfn> white and rounde and grete;
+His sadel was of <dfn data-note="refined (pure) gold">brend gold</dfn> newe <dfn data-note="adorned">ybete</dfn>;
 A <dfn data-note="short cloak">mantelet</dfn> upon his shulder hangynge,
 <dfn data-note="brimful">Bret-ful</dfn> of rubyes rede as fyr sparklynge;
-His crispe heer lyk rynges was <dfn data-note="fashioned (literally, run)">yronne</dfn>,
+His <dfn data-note="curly">crispe</dfn> heer lyk rynges was <dfn data-note="fashioned (literally, run)">yronne</dfn>,
 And that was yelow, and glytered as the sonne.
 His nose was heigh, his eyen bright <dfn data-note="lemon-colored">citryn</dfn>,
 His lippes rounde, his colour was <dfn data-note="ruddy">sangwyn</dfn>;
-A fewe frakenes in his face <dfn data-note="sprinkled">yspreynd</dfn>,
+A fewe <dfn data-note="freckles">frakenes</dfn> in his face <dfn data-note="sprinkled">yspreynd</dfn>,
 Bitwixen yelow and somdel blak <dfn data-note="mingled">ymeynd</dfn>;
 And as a leon he his <dfn data-note="looked about">lookyng caste</dfn>.
 Of fyve and twenty yeer his age I caste.
@@ -1330,7 +1330,7 @@ Aboute this kyng ther ran <dfn data-note="on all sides">on every part</dfn>
 Ful many a tame leon and leopart.
 And in this wise thise lordes, <dfn data-note="one and all, everyone">alle and some</dfn>,
 Been on the Sonday to the citee come
-Aboute pryme, and in the toun <dfn data-note="dismounted, arrived">alight</dfn>.
+Aboute <dfn data-note="around 9 A.M.">pryme</dfn>, and in the toun <dfn data-note="dismounted, arrived">alight</dfn>.
 This Theseus, this duc, this worthy knyght,
 Whan he had broght hem into his citee,
 And <dfn data-note="provided them lodging">inned hem</dfn>, everich at his degree,
@@ -1339,14 +1339,14 @@ To <dfn data-note="accommodate, entertain">esen</dfn> hem and doon hem al honour
 That yet men <dfn data-note="suppose">wenen</dfn> that no mannes wit
 Of noon estaat ne koude amenden it.
 The <dfn data-note="music">mynstralcye</dfn>, the service at the feeste,
-The grete yiftes to the <dfn data-note="to everyone">meeste and leeste</dfn>,
+The grete <dfn data-note="gifts to che">yiftes</dfn> to the <dfn data-note="to everyone">meeste and leeste</dfn>,
 The riche <dfn data-note="adormmment">array</dfn> of Theseus paleys,
 Ne who sat first ne last upon the <dfn data-note="dais">deys</dfn>,
 What ladyes fairest been or best daunsynge,
 Or which of hem kan dauncen best and synge,
 Ne who <dfn data-note="with the most delicate understanding">moost felyngly</dfn> speketh of love;
 What haukes sitten on the perche above,
-What houndes liggen on the floor <dfn data-note="below">adoun</dfn> —
+What houndes <dfn data-note="lie">liggen</dfn> on the floor <dfn data-note="below">adoun</dfn> —
 Of al this make I now no mencioun,
 But al <dfn data-note="the substance">th’effect</dfn>; that thynketh me the beste.
 Now cometh the point, and herkneth if yow leste.
@@ -1356,9 +1356,9 @@ Whan Palamon the larke herde synge
 Yet song the larke) and Palamon right <dfn data-note="then">tho</dfn>
 With hooly herte and with an heigh corage,
 He roos to wenden on his pilgrymage
-Unto the blisful Citherea <dfn data-note="gracious">benigne</dfn> —
+Unto the blisful <dfn data-note="a name for Venus, who rose from the sea at the island Cythera">Citherea</dfn> <dfn data-note="gracious">benigne</dfn> —
 I mene Venus, honurable and <dfn data-note="worthy of honor">digne</dfn>.
-And in hir houre he walketh forth <dfn data-note="slowly">a pas</dfn>
+And in hir <dfn data-note="planetary hour; see Astr 2.12.">houre</dfn> he walketh forth <dfn data-note="slowly">a pas</dfn>
 Unto the lystes ther hire temple was,
 And doun he kneleth, and with humble <dfn data-note="expression">cheere</dfn>
 And herte soor he seyde as ye shal heere:
@@ -1374,12 +1374,12 @@ Myn herte may myne harmes nat <dfn data-note="reveal">biwreye</dfn>;
 I am so confus that I kan noght seye
 But ‘Mercy, lady bright, that knowest weele
 My thought and seest what <dfn data-note="sorrows">harmes</dfn> that I feele!’
-Considere al this and rewe upon my <dfn data-note="pain, misery">soore</dfn>,
+Considere al this and <dfn data-note="have mercy">rewe</dfn> upon my <dfn data-note="pain, misery">soore</dfn>,
 <dfn data-note="as surely as">As wisly as</dfn> I shal for everemoore,
 <dfn data-note="according to">Emforth</dfn> my myght, thy trewe servant be,
 And holden werre alwey with chastitee.
 That make I myn avow, <dfn data-note="providing you help me">so ye me helpe</dfn>!
-I kepe noght of armes for to <dfn data-note="boast">yelpe</dfn>,
+I <dfn data-note="care nothing">kepe noght</dfn> of armes for to <dfn data-note="boast">yelpe</dfn>,
 <dfn data-note="to be pronounced as one syllable (n&#x27;l)">Ne I</dfn> ne axe nat tomorwe to have victorie,
 Ne renoun in this cas, ne veyne glorie
 Of <dfn data-note="praise for deeds of arms proclaimed">pris of armes blowen</dfn> up and doun;
@@ -1430,7 +1430,7 @@ But it be any thing in general;
 And yet it were a game to heeren al.
 To hym that meneth wel it were no <dfn data-note="burden">charge</dfn>;
 But it is good a man been <dfn data-note="without restriction">at his large</dfn>.
-Hir brighte heer was kembd, <dfn data-note="loose">untressed</dfn> al;
+Hir brighte heer was <dfn data-note="combed">kembd</dfn>, <dfn data-note="loose">untressed</dfn> al;
 A coroune of a grene <dfn data-note="an evergrecn oak of southern Europe (Quercus Cerris)">ook cerial</dfn>
 Upon hir heed was set ful fair and <dfn data-note="suitable, fitting">meete</dfn>.
 Two fyres on the auter gan she <dfn data-note="kindle, feed">beete</dfn>,
@@ -1582,7 +1582,7 @@ As <dfn data-note="glad">fayn</dfn> as fowel is of the brighte sonne.
 And right anon swich strif ther is bigonne,
 For thilke grauntyng, in the hevene above,
 Bitwixe Venus, the goddesse of love,
-And Mars, the stierne god <dfn data-note="powerful in arms">armypotente</dfn>,
+And Mars, the <dfn data-note="stern, cruel">stierne</dfn> god <dfn data-note="powerful in arms">armypotente</dfn>,
 That Juppiter was bisy it to stente,
 Til that the pale <dfn data-note="Saturn the hostile">Saturnus the colde</dfn>,
 That knew so manye of aventures olde,
@@ -1597,19 +1597,19 @@ Of al this strif he gan remedie fynde.
 "My deere doghter Venus," <dfn data-note="said">quod</dfn> Saturne,
 "My <dfn data-note="orbit">cours</dfn>, that hath so wyde for to turne,
 Hath moore power than woot any man.
-Myn is the drenchyng in the see so <dfn data-note="dark">wan</dfn>;
+Myn is the <dfn data-note="drowning">drenchyng</dfn> in the see so <dfn data-note="dark">wan</dfn>;
 Mypn is the prison in the derke <dfn data-note="cell">cote</dfn>;
 Mypn is the stranglyng and hangyng by the throte,
-The murmure and the <dfn data-note="peasants’">cherles</dfn> rebellyng,
-The groynynge, and the pryvee <dfn data-note="poisoning">empoysonyng</dfn>;
+The <dfn data-note="grumbling">murmure</dfn> and the <dfn data-note="peasants’">cherles</dfn> rebellyng,
+The <dfn data-note="grumbling">groynynge</dfn>, and the <dfn data-note="secret">pryvee</dfn> <dfn data-note="poisoning">empoysonyng</dfn>;
 I <dfn data-note="punish">do vengeance and pleyn correccioun</dfn>,
 Whil I dwelle in the signe of the <dfn data-note="the zodiacal sign Leo">leoun</dfn>.
 Myn is the ruyne of the hye halles,
 The fallynge of the toures and of the walles
 Upon the <dfn data-note="miner, digging under the walls">mynour</dfn> or the carpenter.
-I slow <dfn data-note="Sampson, the biblical hero, cf. MkT VII.2015-94.">Sampsoun</dfn>, shakynge the piler;
+I <dfn data-note="slew">slow</dfn> <dfn data-note="Sampson, the biblical hero, cf. MkT VII.2015-94.">Sampsoun</dfn>, shakynge the piler;
 And myne be the maladyes colde,
-The derke tresons, and the <dfn data-note="plots">castes</dfn> olde;
+The <dfn data-note="malicious">derke</dfn> tresons, and the <dfn data-note="plots">castes</dfn> olde;
 My <dfn data-note="(astrological) aspect is the cause">lookyng is the fader</dfn> of pestilence.
 Now weep namoore; I shal doon diligence
 That Palamon, that is thyn owene knyght,
@@ -1623,7 +1623,7 @@ Weep now namoore; I wol thy <dfn data-note="desire">lust</dfn> fulfille."
 Now wol I stynten of the goddes above,
 Of Mars, and of Venus, goddesse of love,
 And telle yow as pleynly as I kan
-The grete effect, for which that I bygan. <br><span class="explicit"> Explicit tercia pars </span>  <br><span class="explicit"> <dfn data-note="Here follows the fourth part.">Sequitur pars quarta</dfn> </span>
+The grete effect, for which that I bygan. <br><span class="explicit"> <dfn data-note="Here ends the third part.">Explicit tercia pars</dfn> </span>  <br><span class="explicit"> <dfn data-note="Here follows the fourth part.">Sequitur pars quarta</dfn> </span>
 Greet was the feeste in Atthenes that day,
 And eek the lusty seson of that May
 Made every wight to been in swich <dfn data-note="delight">plesaunce</dfn>
@@ -1640,28 +1640,28 @@ Of lordes upon steedes and palfreys.
 Ther maystow seen <dfn data-note="preparation of armor">devisynge of harneys</dfn>
 So <dfn data-note="exotic">unkouth</dfn> and so riche, and wroght so weel
 Of goldsmythrye, of <dfn data-note="embroidery">browdynge</dfn>, and of steel;
-The sheeldes brighte, testeres, and <dfn data-note="horse armor">trappures</dfn>,
+The sheeldes brighte, <dfn data-note="head-armor for war horses">testeres</dfn>, and <dfn data-note="horse armor">trappures</dfn>,
 <dfn data-note="gold-colored">Gold-hewen</dfn> helmes, hauberkes, cote-armures;
 Lordes in <dfn data-note="richly decorated robes">parementz</dfn> on hir courseres,
 Knyghtes <dfn data-note="in his service">of retenue</dfn>, and eek squieres
-Nailynge the speres, and <dfn data-note="buckling on helms">helmes bokelynge</dfn>;
-Giggynge of sheeldes, with <dfn data-note="fastening of straps">layneres lacynge</dfn> —
+<dfn data-note="fastening the heads to the shafts (R.)">Nailynge the speres</dfn>, and <dfn data-note="buckling on helms">helmes bokelynge</dfn>;
+<dfn data-note="fitting the shields with straps (OF guige, thong) (R.)">Giggynge of sheeldes</dfn>, with <dfn data-note="fastening of straps">layneres lacynge</dfn> —
 There as nede is they weren no thyng ydel;
 The fomy steedes on the golden brydel 
 Gnawynge, and faste the armurers also
 With fyle and hamer prikynge to and fro;
 Yemen on foote, and <dfn data-note="common soldiers">communes</dfn> many oon
 With shorte staves, thikke as they may <dfn data-note="walk">goon</dfn>;
-Pypes, trompes, nakers, <dfn data-note="bugles">clariounes</dfn>,
-That in the bataille blowen blody <dfn data-note="sounds">sounes</dfn>;
+Pypes, trompes, <dfn data-note="kettle drums">nakers</dfn>, <dfn data-note="bugles">clariounes</dfn>,
+That in the bataille blowen <dfn data-note="warlike">blody</dfn> <dfn data-note="sounds">sounes</dfn>;
 The paleys ful of peple up and doun,
 Heere thre, ther ten, <dfn data-note="debating">holdynge hir questioun</dfn>,
 <dfn data-note="conjecturing about">Dyvynynge of</dfn> thise Thebane knyghtes two.
 Somme seyden thus, somme seyde "it shal be so";
 Somme helden with hym with the blake berd,
-Somme with the balled, somme with the <dfn data-note="thickly haired (man)">thikke herd</dfn>;
+Somme with the <dfn data-note="bald">balled</dfn>, somme with the <dfn data-note="thickly haired (man)">thikke herd</dfn>;
 Somme seyde <dfn data-note="that fellow">he</dfn> looked grymme, and he wolde fighte:
-"He hath a sparth of twenty pound of <dfn data-note="weight">wighte</dfn>."
+"He hath a <dfn data-note="battle-axe">sparth</dfn> of twenty pound of <dfn data-note="weight">wighte</dfn>."
 Thus was the halle ful of <dfn data-note="speculation">divynynge</dfn>,
 Longe after that the sonne gan to sprynge.
 The grete Theseus, that of his sleep awaked
@@ -1671,9 +1671,9 @@ Til that the Thebane knyghtes, bothe <dfn data-note="alike">yliche</dfn>
 Honured, were into the paleys <dfn data-note="fetched, brought">fet</dfn>.
 Duc Theseus was at a wyndow set,
 Arrayed right as he were a god in <dfn data-note="throne">trone</dfn>.
-The peple preesseth <dfn data-note="thither, toward there">thiderward</dfn> ful soone
+The peple <dfn data-note="push">preesseth</dfn> <dfn data-note="thither, toward there">thiderward</dfn> ful soone
 Hym for to seen, and doon heigh reverence,
-And eek to herkne his heste and his <dfn data-note="decision">sentence</dfn>.
+And eek to herkne his <dfn data-note="command">heste</dfn> and his <dfn data-note="decision">sentence</dfn>.
 An heraud on a scaffold made an "Oo!"
 Til al the noyse of peple was ydo,
 And whan he saugh the peple of noyse al stille,
@@ -1685,13 +1685,13 @@ Of mortal bataille now in this <dfn data-note="undertaking">emprise</dfn>.
 Wherfore, to shapen that they shal nat dye,
 He wol his <dfn data-note="previous">firste</dfn> purpos modifye.
 No man therfore, <dfn data-note="on">up</dfn> peyne of los of lyf,
-No maner shot, ne <dfn data-note="batde axe">polax</dfn>, ne short knyf
+No maner <dfn data-note="arrow">shot</dfn>, ne <dfn data-note="batde axe">polax</dfn>, ne short knyf
 Into the lystes sende or thider brynge;
 Ne short swerd, for to <dfn data-note="stab, jab">stoke</dfn> with poynt bitynge,
 No man ne drawe, ne bere it by his syde.
 Ne no man shal unto his felawe ryde
-But o <dfn data-note="run (in a joust)">cours</dfn> with a sharpe ygrounde spere;
-Foyne, if hym list, on foote, hymself to <dfn data-note="protect">were</dfn>.
+<dfn data-note="only one">But o</dfn> <dfn data-note="run (in a joust)">cours</dfn> with a sharpe ygrounde spere;
+<dfn data-note="let him thrust">Foyne</dfn>, if hym list, on foote, hymself to <dfn data-note="protect">were</dfn>.
 And he that is <dfn data-note="in distress, at a disadvantage">at meschief</dfn> shal be take
 And noght slayn, but be broght unto the stake
 That shal ben ordeyned on either syde;
@@ -1734,8 +1734,8 @@ Ther nere swiche compaignyes tweye,
 For ther was noon so wys that koude seye
 That any hadde of oother avauntage
 Of worthynesse, ne of estaat, ne age,
-So evene were they chosen, <dfn data-note="as an estimate">for to gesse</dfn>.
-And in two renges faire they <dfn data-note="arrange themselves">hem dresse</dfn>.
+So <dfn data-note="equally">evene</dfn> were they chosen, <dfn data-note="as an estimate">for to gesse</dfn>.
+And in two <dfn data-note="ranks">renges</dfn> faire they <dfn data-note="arrange themselves">hem dresse</dfn>.
 Whan that hir names <dfn data-note="read">rad</dfn> were everichon,
 That in hir nombre <dfn data-note="deception">gyle</dfn> were ther noon,
 Tho were the gates <dfn data-note="shut">shet</dfn>, and cried was loude:
@@ -1743,7 +1743,7 @@ Tho were the gates <dfn data-note="shut">shet</dfn>, and cried was loude:
 The heraudes lefte hir prikyng up and doun;
 Now ryngen trompes loude and clarioun.
 Ther is namoore to seyn, but west and est
-In goon the speres ful sadly in <dfn data-note="lance rest (on the breast plate)">arrest</dfn>;
+In goon the speres ful <dfn data-note="firmly">sadly</dfn> in <dfn data-note="lance rest (on the breast plate)">arrest</dfn>;
 In gooth the sharpe <dfn data-note="spur into the flank">spore into the syde</dfn>.
 Ther seen men who kan juste and who kan ryde;
 Ther <dfn data-note="shiver, break">shyveren</dfn> shaftes upon sheeldes thikke;
@@ -1751,12 +1751,12 @@ He feeleth thurgh the <dfn data-note="the spoon-shaped hollow at the end of the 
 Up spryngen speres twenty foot on highte;
 Out goon the swerdes as the silver brighte;
 The helmes they <dfn data-note="hew to pieces and cut into shreds">tohewen and toshrede</dfn>;
-Out brest the blood with <dfn data-note="strong">stierne</dfn> stremes rede;
+Out <dfn data-note="burst">brest</dfn> the blood with <dfn data-note="strong">stierne</dfn> stremes rede;
 With myghty maces the bones they <dfn data-note="break to pieces">tobreste</dfn>.
 He thurgh the thikkeste of the throng gan threste;
 Ther stomblen steedes stronge, and doun gooth al,
 He rolleth under foot as dooth a bal;
-He foyneth on his feet with his <dfn data-note="spear shaft">tronchoun</dfn>,
+He <dfn data-note="stabs">foyneth</dfn> on his feet with his <dfn data-note="spear shaft">tronchoun</dfn>,
 And he hym <dfn data-note="knocks down">hurtleth with his hors adoun;</dfn>
 He thurgh the body is hurt and sithen take,
 <dfn data-note="despite all he can do">Maugree his heed</dfn>, and broght unto the stake;
@@ -1828,16 +1828,16 @@ And was al his <dfn data-note="source of pleasure">chiere</dfn>, as in his herte
 Out of the ground a furie infernal sterte,
 From Pluto sent at requeste of Saturne,
 For which his hors for fere gan to turne,
-And <dfn data-note="leapt">leep</dfn> aside, and foundred as he leep;
+And <dfn data-note="leapt">leep</dfn> aside, and <dfn data-note="stumbled">foundred</dfn> as he leep;
 And er that Arcite may <dfn data-note="take heed">taken keep</dfn>,
-He pighte hym on the <dfn data-note="pommel (knob on a saddle)">pomel</dfn> of his heed,
+He <dfn data-note="struck himself">pighte hym</dfn> on the <dfn data-note="pommel (knob on a saddle)">pomel</dfn> of his heed,
 That in the place he lay as he were deed,
 His brest <dfn data-note="shattered">tobrosten</dfn> with his sadel-bowe.
 As blak he lay as any <dfn data-note="coal">cole</dfn> or crowe,
 So was the blood yronnen in his face.
 Anon he was yborn out of the place,
 With herte soor, to Theseus paleys.
-Tho was he <dfn data-note="cut">korven</dfn> out of his harneys
+<dfn data-note="then">Tho</dfn> was he <dfn data-note="cut">korven</dfn> out of his harneys
 And in a bed ybrought ful faire and <dfn data-note="quickly">blyve</dfn>,
 For he was yet <dfn data-note="conscious">in memorie</dfn> and alyve,
 And alwey criynge <dfn data-note="for">after</dfn> Emelye.
@@ -1854,7 +1854,7 @@ Al were they soore yhurt, and <dfn data-note="especially">namely</dfn> oon,
 That with a spere was thirled his brest boon.
 To othere woundes and to broken armes
 Somme hadden salves, and somme hadden charmes;
-Fermacies of herbes, and eek <dfn data-note="sage, in a concoction">save</dfn>
+<dfn data-note="medicines">Fermacies</dfn> of herbes, and eek <dfn data-note="sage, in a concoction">save</dfn>
 They dronken, for they wolde hir lymes have.
 For which this noble duc, as he wel kan,
 Conforteth and honoureth every man,
@@ -1867,7 +1867,7 @@ For fallyng nys nat but an aventure,
 Ne to be lad by force unto the stake
 <dfn data-note="without having surrendered">Unyolden</dfn>, and with twenty knyghtes take,
 O persone allone, withouten <dfn data-note="others">mo</dfn>,
-And haryed forth by arme, foot, and <dfn data-note="toe">too</dfn>,
+And <dfn data-note="dragged">haryed</dfn> forth by arme, foot, and <dfn data-note="toe">too</dfn>,
 And eke his steede dryven forth with staves
 With footmen, bothe yemen and eek <dfn data-note="male servants">knaves</dfn> —
 It nas arretted hym no vileynye;
@@ -1887,16 +1887,16 @@ But speke of Palamon and of Arcite.
 Swelleth the brest of Arcite, and the soore
 Encreesseth at his herte moore and moore.
 The <dfn data-note="clotted">clothered</dfn> blood, for any lechecraft,
-Corrupteth, and is in his <dfn data-note="trunk">bouk</dfn> ylaft,
-That neither veyne-blood, ne <dfn data-note="cupping">ventusynge</dfn>,
+<dfn data-note="decays">Corrupteth</dfn>, and is in his <dfn data-note="trunk">bouk</dfn> ylaft,
+That neither <dfn data-note="blood-letting at a vein">veyne-blood</dfn>, ne <dfn data-note="cupping">ventusynge</dfn>,
 Ne drynke of herbes may ben his helpynge.
 The vertu <dfn data-note="expulsive">expulsif</dfn>, or animal,
 Fro thilke vertu cleped natural
-Ne may the venym <dfn data-note="remove">voyden</dfn> ne expelle.
+Ne may the <dfn data-note="poison">venym</dfn> <dfn data-note="remove">voyden</dfn> ne expelle.
 The pipes of his <dfn data-note="lungs">longes</dfn> gonne to swelle,
 And every <dfn data-note="muscle">lacerte</dfn> in his brest adoun
-Is shent with venym and <dfn data-note="decayed matter">corrupcioun</dfn>.
-Hym gayneth neither, for to <dfn data-note="preserve">gete</dfn> his lif,
+Is <dfn data-note="destroyed">shent</dfn> with venym and <dfn data-note="decayed matter">corrupcioun</dfn>.
+<dfn data-note="it avails him">Hym gayneth</dfn> neither, for to <dfn data-note="preserve">gete</dfn> his lif,
 <dfn data-note="The sense is that Arcite’s breast swells, increasing the pain at his heart. The clotted blood left in the trunk of the body, despite the efforts of medical science in letting blood and administering herbs, cannot be voided by the expulsive spirit. The tubes of the lungs begin to swell, and every muscle in the breast is destroyed by the venom. Neither purgatives to induce vomiting nor laxatives help.">Vomyt upward, ne dounward laxatif.
 </dfn>
 Al is tobrosten thilke regioun;
@@ -1934,7 +1934,7 @@ With alle circumstances trewely —
 That is to seyen, trouthe, honour, knyghthede,
 Wysdom, humblesse, estaat, and <dfn data-note="noble lineage">heigh kynrede</dfn>,
 <dfn data-note="nobility of character">Fredom</dfn>, and al that longeth to that art —
-So Juppiter have <dfn data-note="interest in, concern for, my soul">of my soule part</dfn>,
+<dfn data-note="as">So</dfn> Juppiter have <dfn data-note="interest in, concern for, my soul">of my soule part</dfn>,
 As in this world right now ne knowe I non
 So worthy to ben loved as Palamon,
 That serveth yow, and wol doon al his lyf.
@@ -1953,7 +1953,7 @@ But on his lady yet caste he his ye;
 His laste word was, "Mercy, Emelye!"
 His spirit chaunged hous and wente ther,
 As I cam nevere, I kan nat tellen wher.
-Therfore I stynte; I nam no <dfn data-note="theologian">divinistre</dfn>;
+Therfore I stynte; I <dfn data-note="ne am, am not">nam</dfn> no <dfn data-note="theologian">divinistre</dfn>;
 Of soules fynde I nat in this registre,
 Ne me ne list thilke opinions to telle
 Of hem, though that they writen wher they dwelle.
@@ -2002,18 +2002,18 @@ And eek moost honurable in his degree.
 And at the laste he took conclusioun
 That ther as first Arcite and Palamoun
 Hadden for love the bataille hem bitwene,
-That in that selve grove, <dfn data-note="sweet-smelling">swoote</dfn> and grene,
+That in that <dfn data-note="same">selve</dfn> grove, <dfn data-note="sweet-smelling">swoote</dfn> and grene,
 Ther as he hadde his amorouse desires,
 His <dfn data-note="lament">compleynte</dfn>, and for love his hoote fires,
 He wolde make a fyr in which the office
 Funeral he myghte al accomplice.
 And <dfn data-note="ordered">leet comande</dfn> anon to hakke and hewe
 The okes olde, and leye hem <dfn data-note="In a row">On a rewe</dfn>
-In colpons wel <dfn data-note="arranged">arrayed</dfn> for to brenne.
+In <dfn data-note="piles">colpons</dfn> wel <dfn data-note="arranged">arrayed</dfn> for to brenne.
 His officers with swifte feet they renne
 And ryde anon at his comandement.
 And after this, Theseus hath ysent
-After a beere, and it al <dfn data-note="overspread">overspradde</dfn>
+After a <dfn data-note="funeral bier">beere</dfn>, and it al <dfn data-note="overspread">overspradde</dfn>
 With clooth of gold, the richeste that he hadde.
 And of the same suyte he cladde Arcite;
 Upon his hondes hadde he gloves white,
@@ -2025,7 +2025,7 @@ And for the peple sholde seen hym alle,
 Whan it was day, he broghte hym to the halle,
 That roreth of the criyng and the soun.
 Tho cam this woful Theban Palamoun,
-With flotery berd and <dfn data-note="rough">ruggy</dfn>, asshy heeres,
+With <dfn data-note="waving">flotery</dfn> berd and <dfn data-note="rough">ruggy</dfn>, asshy heeres,
 In clothes blake, ydropped al with teeres;
 And, passynge othere of wepynge, Emelye,
 The <dfn data-note="most pitiful">rewefulleste</dfn> of al the compaignye.
@@ -2058,24 +2058,24 @@ To do the office of funeral servyse.
 Heigh labour and ful greet <dfn data-note="preparation">apparaillynge</dfn>
 Was at the service and the fyr-makynge,
 That with his grene top the hevene <dfn data-note="reached to">raughte</dfn>;
-And twenty fadme of brede the <dfn data-note="sides projected">armes straughte</dfn> —
+And twenty <dfn data-note="fathoms broad">fadme of brede</dfn> the <dfn data-note="sides projected">armes straughte</dfn> —
 This is to seyn, the bowes weren so brode.
-Of stree first ther was leyd ful many a <dfn data-note="load">lode</dfn>.
+Of <dfn data-note="straw">stree</dfn> first ther was leyd ful many a <dfn data-note="load">lode</dfn>.
 But how the fyr was maked upon highte,
 Ne eek the names that the trees highte, 
 As ook, firre, birch, aspe, alder, <dfn data-note="probably the holm oak">holm</dfn>, popler,
-Wylugh, elm, plane, assh, box, chasteyn, lynde, <dfn data-note="laurel">laurer</dfn>,
-Mapul, thorn, bech, hasel, ew, <dfn data-note="cornel-tree, dogwood">whippeltree</dfn>
+<dfn data-note="willow">Wylugh</dfn>, elm, plane, assh, box, <dfn data-note="chestnut tree">chasteyn</dfn>, lynde, <dfn data-note="laurel">laurer</dfn>,
+Mapul, thorn, <dfn data-note="beech">bech</dfn>, hasel, <dfn data-note="yew">ew</dfn>, <dfn data-note="cornel-tree, dogwood">whippeltree</dfn>
 How they weren feld shal nat be toold for me;
 Ne hou the goddes <dfn data-note="ran">ronnen</dfn> up and doun,
 Disherited of hire habitacioun,
 In which they <dfn data-note="dwelt">woneden</dfn> in reste and pees,
-Nymphes, fawnes and <dfn data-note="Hamadryads (wood nymphs)">amadrides</dfn>;
+Nymphes, <dfn data-note="fauns">fawnes</dfn> and <dfn data-note="Hamadryads (wood nymphs)">amadrides</dfn>;
 Ne hou the beestes and the briddes alle
 Fledden for fere, whan the wode was falle;
 Ne how the ground <dfn data-note="was frightened by">agast was of</dfn> the light,
 That was nat wont to seen the sonne bright;
-Ne how the fyr was couched first with <dfn data-note="straw">stree</dfn>,
+Ne how the fyr was <dfn data-note="laid">couched</dfn> first with <dfn data-note="straw">stree</dfn>,
 And thanne with drye <dfn data-note="tree trunks">stikkes</dfn> cloven a thre,
 And thanne with grene wode and <dfn data-note="mixture of spices">spicerye</dfn>,
 And thanne with clooth of gold and with <dfn data-note="precious stones">perrye</dfn>,
@@ -2141,7 +2141,7 @@ That same Prince and that Moevere," quod he,
 Certeyne dayes and duracioun
 To al that is engendred in this place,
 Over the whiche day they may nat pace,
-Al mowe they yet tho dayes wel <dfn data-note="abridge, shorten">abregge</dfn>.
+Al <dfn data-note="can">mowe</dfn> they yet tho dayes wel <dfn data-note="abridge, shorten">abregge</dfn>.
 Ther nedeth noght <dfn data-note="to cite no written authorities">noon auctoritee t’allegge</dfn>,
 For it is <dfn data-note="proven">preeved</dfn> by experience,
 But that me list declaren my sentence.
@@ -2150,12 +2150,12 @@ That thilke Moevere stable is and eterne.
 Wel may men knowe, but it be a fool,
 That every part dirryveth from <dfn data-note="its">his</dfn> hool,
 For nature hath nat taken his bigynnyng
-Of no partie or <dfn data-note="portion">cantel</dfn> of a thyng,
+Of no <dfn data-note="part">partie</dfn> or <dfn data-note="portion">cantel</dfn> of a thyng,
 But of a thyng that parfit is and stable,
 Descendynge so til it be <dfn data-note="corruptible">corrumpable</dfn>.
 And therfore, <dfn data-note="by his wise foresight">of his wise purveiaunce</dfn>,
 He hath so wel <dfn data-note="established">biset</dfn> his ordinaunce
-That speces of thynges and <dfn data-note="natural processes">progressiouns</dfn>
+That <dfn data-note="species (types of being)">speces</dfn> of thynges and <dfn data-note="natural processes">progressiouns</dfn>
 Shullen enduren <dfn data-note="one after another">by successiouns</dfn>,
 And nat eterne, withouten any lye.
 This maystow understonde and seen <dfn data-note="plainly">at ye</dfn>.
@@ -2206,7 +2206,7 @@ Departed is <dfn data-note="with all proper honor">with duetee and honour</dfn>
 Out of this foule prisoun of this lyf?
 Why grucchen heere his cosyn and his wyf
 Of his welfare, that loved hem so weel?
-Kan he hem thank? Nay, God woot, <dfn data-note="not a bit, not at all">never a deel</dfn>,
+<dfn data-note="Can he show them his gratitude?">Kan he hem thank?</dfn> Nay, God woot, <dfn data-note="not a bit, not at all">never a deel</dfn>,
 That both his soule and eek hemself offende,
 And yet they mowe hir lustes nat amende.
 "What may I conclude of this longe <dfn data-note="process of thought, argument">serye</dfn>,

@@ -47,7 +47,7 @@ def construct_lines_with_notes(lines: List[str], notes: List[str]):
         note_number = int(note_number)
 
         new_line = transform_line(
-            lines[note_number-1], span.strip(), note_text.strip())
+            lines_html[note_number-1], span.strip(), note_text.strip())
         lines_html[note_number-1] = new_line
 
     return lines_html
