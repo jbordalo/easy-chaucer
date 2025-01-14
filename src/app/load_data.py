@@ -16,6 +16,7 @@ metadata = {
 
 lines = []
 
+
 def split_number_and_note(line):
     return re.match(r'^(\d+)\s*(.*)', line).groups()
 
@@ -34,7 +35,7 @@ def transform_line(line, span, note_text):
             exit(1)
 
         start = found_span.start(1)
-        end = start + len(span)
+        end = found_span.end(1)
         new_line = line[:start] + f"<dfn data-note=\"{html.escape(note_text)}\">{span}</dfn>" + line[end:]
 
     return new_line
