@@ -1,3 +1,4 @@
+<div class="special-line">Here bygynneth the Book of the Tales of Caunterbury.</div>
 Whan that Aprill with <dfn data-note="its">his</dfn> <dfn data-note="sweet, fragrant showers">shoures soote</dfn>
 The <dfn data-note="dryness">droghte</dfn> of March hath <dfn data-note="pierced">perced</dfn> to the roote,
 And bathed every <dfn data-note="vein (of the plants)">veyne</dfn> in <dfn data-note="such liquid">swich licour</dfn>

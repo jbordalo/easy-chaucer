@@ -1,4 +1,5 @@
-<div class="special-line">Heere bigynneth the Knyghtes Tale</div>
+<div class="special-line">Heere bigynneth the Knyghtes Tale.</div>
+<div class="special-line"> <dfn data-note="And now (Theseus, drawing nigh his) native land in laurelled car after fierce battling with the Scithian folk, etc. [ is heralded by glad applause and the heaven-flung shout of the populace and the merry trump of warfare ended ]. The lines are from Statius&#x27;s Thebaid.">Iamque domos Patrias, Scithice post aspera gentis prelia, laurigero, &c.</dfn> </div>
 <dfn data-note="once">Whilom</dfn>, as olde <dfn data-note="histories">stories</dfn> tellen us,
 Ther was a <dfn data-note="duke">duc</dfn> that <dfn data-note="was called">highte</dfn> Theseus;
 Of Atthenes he was lord and governour,
