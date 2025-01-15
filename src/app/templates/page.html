@@ -15,15 +15,21 @@
 
     <div class="container">
         <p id="title">{{ title }}</p>
-        <p class="incipit">{{ incipit }}</p>
+
+        {% set ns = namespace(line_counter = initial_line - 1) %}
 
         {% for line in lines %}
             <div class="line-wrapper">
                 <p>{{ line|safe }}</p>
-                {% if loop.index is divisibleby 5 %}
-                    <p class="line-number">{{ loop.index }}</p>
+
+                {% if 'special-line' not in line %}
+                    {% set ns.line_counter = ns.line_counter + 1 %}
                 {% endif %}
-            </div>    
+
+                {% if ns.line_counter is divisibleby 5 and ns.line_counter != 0 %}
+                    <p class="line-number">{{ ns.line_counter }}</p>
+                {% endif %}
+            </div>
         {% endfor %}
     </div>
 </body>

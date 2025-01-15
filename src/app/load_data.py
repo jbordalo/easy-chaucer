@@ -1,27 +1,31 @@
 metadata = {
     "general-prologue": {
         "title": "General Prologue",
-        "incipit": "Here bygynneth the Book of the Tales of Caunterbury.",
         "file_root_name": "prologue",
         "initial_line": 1
     },
     "knights-tale": {
         "title": "Knight's Tale",
-        "incipit": "Heere bigynneth the Knyghtes Tale.",
         "file_root_name": "knights-tale",
         "initial_line": 859
     },
 }
 
 
+# def tag_lines(lines):
+#     return [{"line": line, "is_special": } for line in lines]
+
+
 def get_chapter_info(chapter):
     with open(f"loadable/{metadata[chapter]['file_root_name']}_html.txt") as f:
         lines = f.readlines()
 
-    title = metadata[chapter]["title"]
-    incipit = metadata[chapter]["incipit"]
+    # tagged_lines = tag_lines(lines)
 
-    return (title, incipit, lines)
+    title = metadata[chapter]["title"]
+    initial_line = metadata[chapter]["initial_line"]
+
+    return (title, initial_line, lines)
 
 
 if __name__ == '__main__':

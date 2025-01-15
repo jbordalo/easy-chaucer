@@ -14,8 +14,8 @@ def home():
 def page(page_name):
     current_page = page_name
     try:
-        title, incipit, lines = get_chapter_info(current_page)
-        return render_template('page.html', title=title, incipit=incipit, lines=lines)
+        title, initial_line, lines = get_chapter_info(current_page)
+        return render_template('page.html', title=title, initial_line=initial_line, lines=lines)
     except KeyError:
         return "Page not found", 404
     except FileNotFoundError:
