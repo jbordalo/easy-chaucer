@@ -23,7 +23,7 @@ def transform_line(line: Line, span: str, note_text: str) -> str:
 
         if not found_span:
             print("ERROR")
-            print("Span:", repr(span))
+            print("Span:", repr(span.strip()))
             print("Line:", repr(line.get_text()))
             exit(1)
 
@@ -41,7 +41,7 @@ def construct_lines_with_notes(lines: List[Line]) -> List[Line]:
 
     for line in lines_html:
         if is_special(line.get_text()):
-            new_line = f"<div class=\"special-line\">{line.get_text().strip()}</div>\n"
+            new_line = f"<div class=\"special-line\"> {line.get_text().strip()} </div>\n"
             line.set_text(new_line)
 
         if not line.has_notes():
