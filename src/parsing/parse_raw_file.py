@@ -1,7 +1,7 @@
-from typing import List, Dict
+from typing import List, Tuple, Dict
 import re
 from create_html_lines import construct_lines_with_notes
-from line import Line
+from line import Line, is_special
 from note import Note
 
 NOTE_TAG = "NOTE: "
@@ -71,8 +71,6 @@ def parse_multiline_notes(lines: List[Line], line: str, colon_position: int, sta
     while " ".join([word_by_word[-1]] + span).lower() in lines[end-1].get_text().lower():
         span.insert(0, word_by_word.pop())
 
-    # TODO I'm not sure why this has no conditionals
-
     lines[end-1].add_notes([Note(" ".join(span), note_text)])
 
     lines[start-1].add_notes([Note(" ".join(word_by_word), note_text)])
@@ -89,12 +87,38 @@ def get_multiline_range(start_str: str, end_str: str):
     return start - chapter_initial_line + 1, end - chapter_initial_line + 1
 
 
-def is_special(line: str):
-    return line.startswith("\t")
+def parse_special_line(special_lines: Dict[str, Tuple[Line, int]], line: str, line_index: int):
+    if line.lstrip().startswith(NOTE_TAG):
+        # Assuming these notes are single notes
+        span, note_text = line.replace(NOTE_TAG, "").split(":")
+
+        assert span.strip() in special_lines
+
+        special_lines[span.strip()][0].add_notes(
+            [Note(span, note_text.strip())])
+    else:
+        special_lines[line.strip()] = (Line(line), line_index)
+
+
+def insert_special_lines(lines: List[Line], special_lines: Dict[str, Tuple[Line, int]]):
+    # Insert sort, but leverages the order of insertion of the map to order consecutive special lines correctly
+    # Python guarantees that iteration order is the same as insertion order
+    ordered_special_lines = []
+    for line, idx in special_lines.values():
+        insert_idx = 0
+        for _, e_idx in ordered_special_lines:
+            if e_idx > idx:
+                insert_idx += 1
+
+        ordered_special_lines.insert(insert_idx, (line, idx))
+
+    for line, idx in ordered_special_lines:
+        lines.insert(idx, line)
 
 
 if __name__ == '__main__':
     lines: List[Line] = []
+    special_lines: Dict[str, Tuple[Line, int]] = {}
 
     chapter = "knights-tale"
     chapter_initial_line = 859
@@ -104,7 +128,9 @@ if __name__ == '__main__':
             A line can be a normal line, a special line (incipit, explicit), a simple note, a multiline note
         """
         for line in f:
-            if is_verse(line):
+            if is_special(line):
+                parse_special_line(special_lines, line, len(lines))
+            elif is_verse(line):
                 lines.append(Line(line))
             elif is_simple_note(line):
                 note_number = int(line.split(maxsplit=1)[0])
@@ -130,22 +156,27 @@ if __name__ == '__main__':
                 print("Couldn't find type of line for line:")
                 print(line)
 
-    with open(f'new_{chapter}.txt', 'w') as lines_file, open(f'new_{chapter}_notes.txt', 'w') as notes_file:
-        for line_number, line in enumerate(lines):
+    insert_special_lines(lines, special_lines)
+
+    with open(f'{chapter}.txt', 'w') as lines_file, open(f'{chapter}_notes.txt', 'w') as notes_file:
+        line_number = 1
+        for line in lines:
             lines_file.write(line.get_text())
 
             for note in line.get_notes():
-                if not note.get_span():
-                    out = f"{line_number + 1} {note.get_note_text()}"
-                    notes_file.write(out)
+                if is_special(note.get_span()):
+                    notes_file.write(str(note))
                 else:
-                    out = f"{line_number + 1} {note}"
+                    out = f"{line_number} {note}"
                     notes_file.write(out)
 
                 notes_file.write("\n")
 
+            if not is_special(line.get_text()):
+                line_number += 1
+
     lines_html = construct_lines_with_notes(lines)
 
-    with open(f'new_{chapter}_html.txt', 'w') as f:
+    with open(f'{chapter}_html.txt', 'w') as f:
         for line in lines_html:
             f.write(line.get_text())

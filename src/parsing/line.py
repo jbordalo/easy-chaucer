@@ -12,7 +12,7 @@ class Line:
 
     def get_text(self) -> str:
         return self.text
-    
+
     def set_text(self, line: str):
         self.text = line
 
@@ -24,3 +24,8 @@ class Line:
 
     def __str__(self) -> str:
         return f"{repr(self.text)} ; {', '.join([str(note) for note in self.get_notes()])} "
+
+
+def is_special(line_text: str) -> bool:
+    # account for 2 and 4 space tabs
+    return len(line_text) > len(line_text.lstrip())

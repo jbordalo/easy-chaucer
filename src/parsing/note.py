@@ -10,4 +10,7 @@ class Note:
         return self.note_text
 
     def __str__(self) -> str:
-        return f"{self.span}: {self.note_text}"
+        if self.span:
+            return f"{self.span}: {self.note_text}"
+        else:
+            return self.note_text
