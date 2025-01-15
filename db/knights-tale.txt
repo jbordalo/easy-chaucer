@@ -1,3 +1,4 @@
+    Heere bigynneth the Knyghtes Tale
 Whilom, as olde stories tellen us,
 Ther was a duc that highte Theseus;
 Of Atthenes he was lord and governour,
@@ -420,7 +421,7 @@ Swich sorwe he maketh that the grete tour
 Resouneth of his youlyng and clamour.
 The pure fettres on his shynes grete
 Weren of his bittre, salte teeres wete.
-"Allas,"" quod he, "Arcita, cosyn myn,
+"Allas," quod he, "Arcita, cosyn myn,
 Of al oure strif, God woot, the fruyt is thyn.
 Thow walkest now in Thebes at thy large,
 And of my wo thow yevest litel charge.
@@ -452,7 +453,7 @@ For slayn is man right as another beest,
 And dwelleth eek in prison and arreest, 
 And hath siknesse and greet adversitee,
 And ofte tymes giltelees, pardee.
-""What governance is in this prescience,
+"What governance is in this prescience,
 That giltelees tormenteth innocence?
 And yet encresseth this al my penaunce,
 That man is bounden to his observaunce,
@@ -493,7 +494,9 @@ But in prison he moot dwelle alway;
 That oother wher hym list may ride or go,
 But seen his lady shal he nevere mo.
 Now demeth as yow liste, ye that kan,
-For I wol telle forth as I bigan. <br><span class="explicit"> Explicit prima pars </span> <br> <span class="explicit">  Sequitur pars secunda </span>
+For I wol telle forth as I bigan.
+    Explicit prima pars
+    Sequitur pars secunda
 Whan that Arcite to Thebes comen was,
 Ful ofte a day he swelte and seyde "Allas!"
 For seen his lady shal he nevere mo.
@@ -710,7 +713,7 @@ Ye sleen me with youre eyen, Emelye!
 Ye been the cause wherfore that I dye.
 Of al the remenant of myn oother care
 Ne sette I nat the montance of a tare,
-So that I koude doon aught to youre plesaunce.""
+So that I koude doon aught to youre plesaunce."
 And with that word he fil doun in a traunce
 A longe tyme, and after he up sterte.
 This Palamoun, that thoughte that thurgh his herte
@@ -1019,7 +1022,9 @@ And thonked hym with al hir herte and myght,
 And namely the Thebans often sithe.
 And thus with good hope and with herte blithe
 They taken hir leve, and homward gonne they ride
-To Thebes with his olde walles wyde. <br><span class="explicit"> Explicit secunda pars  </span> <br><span class="explicit"> Sequitur pars tercia  </span> 
+To Thebes with his olde walles wyde.
+    Explicit secunda pars
+    Sequitur pars tercia 
 I trowe men wolde deme it necligence
 If I foryete to tellen the dispence
 Of Theseus, that gooth so bisily
@@ -1621,7 +1626,9 @@ Weep now namoore; I wol thy lust fulfille."
 Now wol I stynten of the goddes above,
 Of Mars, and of Venus, goddesse of love,
 And telle yow as pleynly as I kan
-The grete effect, for which that I bygan. <br><span class="explicit"> Explicit tercia pars </span>  <br><span class="explicit"> Sequitur pars quarta </span>
+The grete effect, for which that I bygan.
+    Explicit tercia pars
+    Sequitur pars quarta
 Greet was the feeste in Atthenes that day,
 And eek the lusty seson of that May
 Made every wight to been in swich plesaunce
@@ -2247,4 +2254,5 @@ And he hire serveth so gentilly,
 That nevere was ther no word hem bitwene
 Of jalousie or any oother teene.
 Thus endeth Palamon and Emelye;
-And God save al this faire compaignye! Amen. <br><span class="incipit"> Heere is ended the Knyghtes Tale. </span>
+And God save al this faire compaignye! Amen.
+    Heere is ended the Knyghtes Tale.

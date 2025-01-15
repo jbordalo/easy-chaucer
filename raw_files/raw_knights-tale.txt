@@ -1,3 +1,4 @@
+    Heere bigynneth the Knyghtes Tale
 Whilom, as olde stories tellen us,
 Ther was a duc that highte Theseus;
 Of Atthenes he was lord and governour,
@@ -626,7 +627,7 @@ Swich sorwe he maketh that the grete tour
 Resouneth of his youlyng and clamour.
 The pure fettres on his shynes grete
 Weren of his bittre, salte teeres wete.
-"Allas,"" quod he, "Arcita, cosyn myn,
+"Allas," quod he, "Arcita, cosyn myn,
 Of al oure strif, God woot, the fruyt is thyn.
 Thow walkest now in Thebes at thy large,
 And of my wo thow yevest litel charge.
@@ -678,7 +679,7 @@ For slayn is man right as another beest,
 And dwelleth eek in prison and arreest, 
 And hath siknesse and greet adversitee,
 And ofte tymes giltelees, pardee.
-""What governance is in this prescience,
+"What governance is in this prescience,
 That giltelees tormenteth innocence?
 And yet encresseth this al my penaunce,
 That man is bounden to his observaunce,
@@ -738,7 +739,9 @@ But in prison he moot dwelle alway;
 That oother wher hym list may ride or go,
 But seen his lady shal he nevere mo.
 Now demeth as yow liste, ye that kan,
-For I wol telle forth as I bigan. <br><span class="explicit"> Explicit prima pars </span> <br> <span class="explicit">  Sequitur pars secunda </span>
+For I wol telle forth as I bigan.
+    Explicit prima pars
+    Sequitur pars secunda
 Whan that Arcite to Thebes comen was,
 Ful ofte a day he swelte and seyde "Allas!"
 For seen his lady shal he nevere mo.
@@ -760,7 +763,8 @@ And solitarie he was and evere allone,
 1347 questioun: logical problem (of love); see n.
 1351 ride or go: ride or walk
 1353 demeth: judge kan: know how 
-1354 Explicit prima pars: Here ends the first part. Sequitur pars secunda: Here follows the second part.
+    NOTE: Explicit prima pars: Here ends the first part.
+    NOTE: Sequitur pars secunda: Here follows the second part.
 1356 swelte: grew faint
 1360 dure: last
 1361 biraft: taken away from
@@ -1062,7 +1066,7 @@ Ye sleen me with youre eyen, Emelye!
 Ye been the cause wherfore that I dye.
 Of al the remenant of myn oother care
 Ne sette I nat the montance of a tare,
-So that I koude doon aught to youre plesaunce.""
+So that I koude doon aught to youre plesaunce."
 And with that word he fil doun in a traunce
 A longe tyme, and after he up sterte.
 This Palamoun, that thoughte that thurgh his herte
@@ -1503,7 +1507,9 @@ And thonked hym with al hir herte and myght,
 And namely the Thebans often sithe.
 And thus with good hope and with herte blithe
 They taken hir leve, and homward gonne they ride
-To Thebes with his olde walles wyde. <br><span class="explicit"> Explicit secunda pars  </span> <br><span class="explicit"> Sequitur pars tercia  </span> 
+To Thebes with his olde walles wyde.
+    Explicit secunda pars
+    Sequitur pars tercia 
 I trowe men wolde deme it necligence
 If I foryete to tellen the dispence
 Of Theseus, that gooth so bisily
@@ -1530,7 +1536,8 @@ Ne portreyour, ne kervere of ymages,
 1870 lightly: cheerfully
 1872 endite: describe in writin,
 1874 doon so fair a grace: behaved so graciously 
-1880 Explicit secunda pars: Here ends the second part. Sequitur pars tercia: Here follows the third part.
+    NOTE: Explicit secunda pars: Here ends the second part.
+    NOTE: Sequitur pars tercia: Here follows the third part.
 1882 dispence: expenditures
 1888 dyched: surrounded by a ditch
 1889 manere of compas: the shape of a circle
@@ -2402,7 +2409,9 @@ Weep now namoore; I wol thy lust fulfille."
 Now wol I stynten of the goddes above,
 Of Mars, and of Venus, goddesse of love,
 And telle yow as pleynly as I kan
-The grete effect, for which that I bygan. <br><span class="explicit"> Explicit tercia pars </span>  <br><span class="explicit"> Sequitur pars quarta </span>
+The grete effect, for which that I bygan.
+    Explicit tercia pars
+    Sequitur pars quarta
 Greet was the feeste in Atthenes that day,
 And eek the lusty seson of that May
 Made every wight to been in swich plesaunce
@@ -2431,7 +2440,8 @@ There as nede is they weren no thyng ydel;
 2475 o compleccioun: the same temperament (as determined by the humors)
 2477 aiel: grandfather
 2478 lust: desire 
-2482 Explicit tercia pars: Here ends the third part. Sequitur pars quarta: Here follows the fourth part.
+    NOTE: Explicit tercia pars: Here ends the third part.
+    NOTE: Sequitur pars quarta: Here follows the fourth part.
 2485 plesaunce: delight
 2486 justen: joust
 2496 devisynge of harneys: preparation of armor
@@ -3263,7 +3273,8 @@ And he hire serveth so gentilly,
 That nevere was ther no word hem bitwene
 Of jalousie or any oother teene.
 Thus endeth Palamon and Emelye;
-And God save al this faire compaignye! Amen. <br><span class="incipit"> Heere is ended the Knyghtes Tale. </span>
+And God save al this faire compaignye! Amen.
+    Heere is ended the Knyghtes Tale.
 3060 with duetee and honour: with all proper honor
 3064 Kan he hem thank?: Can he show them his gratitude? never a deel: not a bit, not at all
 3067 serye: process of thought, argument

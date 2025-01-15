@@ -1,3 +1,4 @@
+<div class="special-line">Heere bigynneth the Knyghtes Tale</div>
 <dfn data-note="once">Whilom</dfn>, as olde <dfn data-note="histories">stories</dfn> tellen us,
 Ther was a <dfn data-note="duke">duc</dfn> that <dfn data-note="was called">highte</dfn> Theseus;
 Of Atthenes he was lord and governour,
@@ -228,8 +229,7 @@ Oure prisoun, for it may noon oother be.
 Fortune hath yeven us this adversitee.
 Som wikke aspect or disposicioun
 Of Saturne, by som constellacioun,
-<dfn data-note="Some evil aspect or disposition of the planet Saturn, by arrangement of the heavenly bodies (constellacioun) has given us this (fate, which we must suffer) although we had sworn the contrary (would befall).">Hath yeven us this, although we hadde it sworn;
-</dfn>
+<dfn data-note="Some evil aspect or disposition of the planet Saturn, by arrangement of the heavenly bodies (constellacioun) has given us this (fate, which we must suffer) although we had sworn the contrary (would befall).">Hath yeven us this, although we hadde it sworn;</dfn>
 So stood the hevene whan that we were born.
 We moste endure it; <dfn data-note="pronounced as one syllable">this is</dfn> the short and playn."
 This Palamon answerde and seyde <dfn data-note="in reply">agayn</dfn>,
@@ -421,7 +421,7 @@ Swich sorwe he maketh that the grete tour
 <dfn data-note="resounded with">Resouneth of</dfn> his <dfn data-note="howling">youlyng</dfn> and clamour.
 The <dfn data-note="very fetters">pure fettres</dfn> on his shynes <dfn data-note="large (probably to be construed with fetters )">grete</dfn>
 Weren of his bittre, salte teeres wete.
-"Allas,"" quod he, "Arcita, cosyn myn,
+"Allas," quod he, "Arcita, cosyn myn,
 Of al oure strif, God woot, the fruyt is thyn.
 Thow walkest now in Thebes <dfn data-note="freely">at thy large</dfn>,
 And of my wo thow <dfn data-note="give litle care">yevest litel charge</dfn>.
@@ -453,9 +453,8 @@ For slayn is man right as another beest,
 And dwelleth eek in prison and <dfn data-note="restraint">arreest</dfn>, 
 And hath siknesse and greet adversitee,
 And ofte tymes <dfn data-note="innocent">giltelees</dfn>, <dfn data-note="indeed">pardee</dfn>.
-""What governance is in this prescience,
-<dfn data-note="What (sort of) governance is there in this (providential) foreknowledge (prescience) that (thus) torments guiltless innocence?">That giltelees tormenteth innocence?
-</dfn>
+"What governance is in this prescience,
+<dfn data-note="What (sort of) governance is there in this (providential) foreknowledge (prescience) that (thus) torments guiltless innocence?">That giltelees tormenteth innocence?</dfn>
 And yet encresseth this al my <dfn data-note="suffering">penaunce</dfn>,
 That man is bounden to his <dfn data-note="duty">observaunce</dfn>,
 For Goddes sake, <dfn data-note="to refrain from his desire (R.)">to letten of his wille</dfn>,
@@ -495,7 +494,9 @@ But in prison he moot dwelle alway;
 That oother wher hym list may <dfn data-note="ride or walk">ride or go</dfn>,
 But seen his lady shal he nevere mo.
 Now <dfn data-note="judge">demeth</dfn> as yow liste, ye that <dfn data-note="know how">kan</dfn>,
-For I wol telle forth as I bigan. <br><span class="explicit"> <dfn data-note="Here ends the first part.">Explicit prima pars</dfn> </span> <br> <span class="explicit">  <dfn data-note="Here follows the second part.">Sequitur pars secunda</dfn> </span>
+For I wol telle forth as I bigan.
+<div class="special-line"><dfn data-note="Here ends the first part.">Explicit prima pars</dfn></div>
+<div class="special-line"><dfn data-note="Here follows the second part.">Sequitur pars secunda</dfn></div>
 Whan that Arcite to Thebes comen was,
 Ful ofte a day he <dfn data-note="grew faint">swelte</dfn> and seyde "Allas!"
 For seen his lady shal he nevere mo.
@@ -712,7 +713,7 @@ Ye sleen me with youre eyen, Emelye!
 Ye been the cause wherfore that I dye.
 Of al the remenant of myn oother care
 Ne sette I nat the <dfn data-note="amount, value">montance</dfn> of a <dfn data-note="weed (i.e., nothing)">tare</dfn>,
-So that I koude doon aught to youre <dfn data-note="pleasure">plesaunce</dfn>.""
+So that I koude doon aught to youre <dfn data-note="pleasure">plesaunce</dfn>."
 And with that word he fil doun in a traunce
 A longe tyme, and after he up sterte.
 This Palamoun, that thoughte that thurgh his herte
@@ -1021,7 +1022,9 @@ And thonked hym with al hir herte and myght,
 And namely the Thebans often sithe.
 And thus with good hope and with herte blithe
 They taken hir leve, and homward gonne they ride
-To Thebes with his olde walles wyde. <br><span class="explicit"> <dfn data-note="Here ends the second part.">Explicit secunda pars</dfn>  </span> <br><span class="explicit"> <dfn data-note="Here follows the third part.">Sequitur pars tercia</dfn>  </span> 
+To Thebes with his olde walles wyde.
+<div class="special-line"><dfn data-note="Here ends the second part.">Explicit secunda pars</dfn></div>
+<div class="special-line"><dfn data-note="Here follows the third part.">Sequitur pars tercia</dfn></div>
 I trowe men wolde deme it necligence
 If I foryete to tellen the <dfn data-note="expenditures">dispence</dfn>
 Of Theseus, that gooth so bisily
@@ -1623,7 +1626,9 @@ Weep now namoore; I wol thy <dfn data-note="desire">lust</dfn> fulfille."
 Now wol I stynten of the goddes above,
 Of Mars, and of Venus, goddesse of love,
 And telle yow as pleynly as I kan
-The grete effect, for which that I bygan. <br><span class="explicit"> <dfn data-note="Here ends the third part.">Explicit tercia pars</dfn> </span>  <br><span class="explicit"> <dfn data-note="Here follows the fourth part.">Sequitur pars quarta</dfn> </span>
+The grete effect, for which that I bygan.
+<div class="special-line"><dfn data-note="Here ends the third part.">Explicit tercia pars</dfn></div>
+<div class="special-line"><dfn data-note="Here follows the fourth part.">Sequitur pars quarta</dfn></div>
 Greet was the feeste in Atthenes that day,
 And eek the lusty seson of that May
 Made every wight to been in swich <dfn data-note="delight">plesaunce</dfn>
@@ -1897,8 +1902,7 @@ The pipes of his <dfn data-note="lungs">longes</dfn> gonne to swelle,
 And every <dfn data-note="muscle">lacerte</dfn> in his brest adoun
 Is <dfn data-note="destroyed">shent</dfn> with venym and <dfn data-note="decayed matter">corrupcioun</dfn>.
 <dfn data-note="it avails him">Hym gayneth</dfn> neither, for to <dfn data-note="preserve">gete</dfn> his lif,
-<dfn data-note="The sense is that Arcite’s breast swells, increasing the pain at his heart. The clotted blood left in the trunk of the body, despite the efforts of medical science in letting blood and administering herbs, cannot be voided by the expulsive spirit. The tubes of the lungs begin to swell, and every muscle in the breast is destroyed by the venom. Neither purgatives to induce vomiting nor laxatives help.">Vomyt upward, ne dounward laxatif.
-</dfn>
+<dfn data-note="The sense is that Arcite’s breast swells, increasing the pain at his heart. The clotted blood left in the trunk of the body, despite the efforts of medical science in letting blood and administering herbs, cannot be voided by the expulsive spirit. The tubes of the lungs begin to swell, and every muscle in the breast is destroyed by the venom. Neither purgatives to induce vomiting nor laxatives help.">Vomyt upward, ne dounward laxatif.</dfn>
 Al is tobrosten thilke regioun;
 Nature hath now no dominacioun.
 And certeinly, ther Nature wol nat <dfn data-note="work">wirche</dfn>,
@@ -2250,4 +2254,5 @@ And he hire serveth so gentilly,
 That nevere was ther no word hem bitwene
 Of jalousie or any oother <dfn data-note="vexation">teene</dfn>.
 Thus endeth Palamon and Emelye;
-And God save al this faire compaignye! Amen. <br><span class="incipit"> Heere is ended the Knyghtes Tale. </span>
+And God save al this faire compaignye! Amen.
+<div class="special-line">Heere is ended the Knyghtes Tale.</div>

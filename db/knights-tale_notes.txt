@@ -177,10 +177,10 @@
 268 fey: faith
 269 me list ful yvele pleye: I have very little desire to play
 271 nere: ne were, would not be (subj.)
-274 Ysworn: sworn brother
+273 brother: sworn brother
 274 ful depe: very deeply, sincerely
 274 til: to
-273 brother: sworn brother
+274 Ysworn: sworn brother
 278 leeve: dear
 279 forthren: help
 282 darst it nat withseyn: dare not deny it
@@ -300,8 +300,8 @@
 493 ride or go: ride or walk
 495 demeth: judge
 495 kan: know how
-496 Explicit prima pars: Here ends the first part.
-496 Sequitur pars secunda: Here follows the second part.
+    Explicit prima pars: Here ends the first part.
+    Sequitur pars secunda: Here follows the second part.
 498 swelte: grew faint
 502 dure: last
 503 biraft: taken away from
@@ -314,9 +314,9 @@
 513 voys: voice
 514 geere: behavior
 514 ferde: behaved
-516 Of Hereos: love-sickness; see n. to lines 1355-76.
-516 manye: mania
 515 loveris maladye: love-sickness; see n. to lines 1355-76.
+516 manye: mania
+516 Of Hereos: love-sickness; see n. to lines 1355-76.
 517 humour malencolik: melancholy humor
 518 celle fantastik: the part of the brain that controls the imagination
 519 up so doun: topsy turvy
@@ -347,8 +347,8 @@
 558 devyse: command
 560 fil in office: fell in service, was employed
 560 chamberleyn: household attendant
-563 Of: take notice, take the measure of
 562 espye,: take notice, take the measure of
+563 Of: take notice, take the measure of
 564 bere: bear, carry
 566 long: tall
 566 big: strong
@@ -460,8 +460,8 @@
 768 felaweshipe: equal partnership
 772 two harneys: two suits of armor
 772 dight: prepared
-773 mete: suitable, fitting
 773 darreyne: engage in, decide the battle
+773 mete: suitable, fitting
 774 The bataille: engage in, decide the battle
 780 regne of Trace: kingdom of Thrace
 781 gappe: gap (toward which the game is driven)
@@ -570,8 +570,8 @@
 1012 lightly: cheerfully
 1014 endite: describe in writin,
 1016 doon so fair a grace: behaved so graciously
-1022 Explicit secunda pars: Here ends the second part.
-1022 Sequitur pars tercia: Here follows the third part.
+    Explicit secunda pars: Here ends the second part.
+    Sequitur pars tercia: Here follows the third part.
 1024 dispence: expenditures
 1030 dyched: surrounded by a ditch
 1031 manere of compas: the shape of a circle
@@ -691,8 +691,8 @@
 1168 styth: anvil
 1169 depeynted: painted
 1172 soutil twynes threed: thin thread of twine
-1174 Of grete Nero, and of Antonius;: the Roman emperors
 1173 Julius,: the Roman emperors
+1174 Of grete Nero, and of Antonius;: the Roman emperors
 1177 manasynge: menace, threat
 1177 by figure: according to the configuration of the planets; "perhaps a technical reference to a horoscope" (R.)
 1178 portreiture: painting
@@ -926,8 +926,8 @@
 1617 o compleccioun: the same temperament (as determined by the humors)
 1619 aiel: grandfather
 1620 lust: desire
-1624 Explicit tercia pars: Here ends the third part.
-1624 Sequitur pars quarta: Here follows the fourth part.
+    Explicit tercia pars: Here ends the third part.
+    Sequitur pars quarta: Here follows the fourth part.
 1627 plesaunce: delight
 1628 justen: joust
 1638 devisynge of harneys: preparation of armor
@@ -1069,7 +1069,6 @@
 1877 yiftes: gifts
 1880 journee: day's journey
 1883 endite: write
-1898 The sense is that Arcite’s breast swells, increasing the pain at his heart. The clotted blood left in the trunk of the body, despite the efforts of medical science in letting blood and administering herbs, cannot be voided by the expulsive spirit. The tubes of the lungs begin to swell, and every muscle in the breast is destroyed by the venom. Neither purgatives to induce vomiting nor laxatives help.
 1887 clothered: clotted
 1888 Corrupteth: decays
 1888 bouk: trunk
@@ -1084,6 +1083,7 @@
 1896 corrupcioun: decayed matter
 1897 Hym gayneth: it avails him
 1897 gete: preserve
+1898 The sense is that Arcite’s breast swells, increasing the pain at his heart. The clotted blood left in the trunk of the body, despite the efforts of medical science in letting blood and administering herbs, cannot be voided by the expulsive spirit. The tubes of the lungs begin to swell, and every muscle in the breast is destroyed by the venom. Neither purgatives to induce vomiting nor laxatives help.
 1901 wirche: work
 1902 phisik: medicine
 1903 This: this is
