@@ -27,6 +27,11 @@ body {
     margin: 0 auto 20px;
 }
 
+#separator {
+    font-size: 60px;
+    margin: 0 auto 40px auto;
+}
+
 .special-line {
     display: inline-block;
     margin: 15px auto !important;
