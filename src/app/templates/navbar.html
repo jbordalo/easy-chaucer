@@ -6,7 +6,7 @@
 
 <nav>
     <div class="hamburger-menu">
-        <input type="checkbox" id="menu-toggle">
+        <input type="checkbox" id="menu-toggle" checked>
         <label for="menu-toggle" class="menu-icon">
             <span></span>
             <span></span>
@@ -19,7 +19,6 @@
                 <li>
                     <label for="fontSelect">Font:</label>
                     <select id="fontSelect">
-                        <option value="Georgia">Georgia</option>
                         <option value="Times New Roman">Times New Roman</option>
                         <option value="Arial">Arial</option>
                         <option value="Courier New">Courier New</option>
@@ -31,42 +30,64 @@
                     <input type="range" id="fontSize" min="12" max="48" value="16">
                 </li>
                 <hr>
-                <li><a href="/general-prologue">General Prologue</a></li>
-                <li><a href="/knights-tale">Knight's Tale</a></li>
+                <li class="category">
+                    <input type="checkbox" id="fragment-i-toggle" checked>
+                    <label for="fragment-i-toggle" class="category-label">Fragment I</label>
+                    <ul class="subcategory">
+                        <li><a href="/general-prologue">General Prologue</a></li>
+                        <li><a href="/knights-tale">Knight's Tale</a></li>
+                        <li><a href="/millers-prologue">Miller's Prologue</a></li>
+                        <li><a href="/millers-tale">Miller's Tale</a></li>
+                        <li><a href="/reeves-prologue">Reeve's Prologue</a></li>
+                        <li><a href="/reeves-tale">Reeve's Tale</a></li>
+                        <li><a href="/cooks-prologue">Cook's Prologue</a></li>
+                        <li><a href="/cooks-tale">Cook's Tale</a></li>
+                    </ul>
+                </li>
+                <li class="category">
+                    <input type="checkbox" id="fragment-ii-toggle" checked>
+                    <label for="fragment-ii-toggle" class="category-label">Fragment II</label>
+                    <ul class="subcategory">
+                        <li>The Man of Law's Tale</li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
 
     <h2 id="logo">
-        <span id="easy">Easy</span><span id="chaucer">Chaucer</span>
+        EasyChaucer
     </h2>
-    
-    <button id="darkModeToggle" class="dark-mode-toggle">
+
+    <button id="themeToggle" class="theme-toggle">
         <img src="{{ url_for('static', filename='assets/light.png') }}" alt="Light Mode" class="light-icon">
         <img src="{{ url_for('static', filename='assets/dark.png') }}" alt="Dark Mode" class="dark-icon">
+        <img src="{{ url_for('static', filename='assets/sepia.png') }}" alt="Sepia Mode" class="sepia-icon">
     </button>
 </nav>
 
 <script>
-    const darkModeToggle = document.getElementById('darkModeToggle');
+    const themeToggle = document.getElementById('themeToggle');
     const body = document.body;
     const fontSizeSlider = document.getElementById('fontSize');
     const fontSelect = document.getElementById('fontSelect');
-    
+
     fontSizeSlider.addEventListener('input', updateStyle);
     fontSelect.addEventListener('change', updateStyle);
-    
+
+    if (localStorage.getItem('theme') !== null) {
+        console.log("Setting theme:", localStorage.getItem('theme'));
+        body.classList.add(localStorage.getItem('theme'));
+    }
+
     document.addEventListener("DOMContentLoaded", function() {
         const container = document.querySelector('.container');
         
-        if (localStorage.getItem('darkMode') === 'true') {
-            body.classList.add('dark-mode');
-        }
         if (localStorage.getItem('fontSize')) {
-        const fontSize = localStorage.getItem('fontSize');
-        
-        container.style.fontSize = fontSize + 'px';
-        fontSizeSlider.value = fontSize;
+            const fontSize = localStorage.getItem('fontSize');
+            
+            container.style.fontSize = fontSize + 'px';
+            fontSizeSlider.value = fontSize;
         }
         if (localStorage.getItem('fontFamily')) {
             const fontFamily = localStorage.getItem('fontFamily');
@@ -74,23 +95,23 @@
             container.style.fontFamily = fontFamily;
             fontSelect.value = fontFamily;
         }
+
+        container.style.visibility = "visible";
     })
 
-    // Toggle dark mode
-    darkModeToggle.addEventListener('click', () => {
-        body.classList.toggle('dark-mode');
-        localStorage.setItem('darkMode', body.classList.contains('dark-mode'));
+    themeToggle.addEventListener('click', () => {
+        console.log("Switching theme");
         
-        // Toggle visibility of icons
-        const lightIcon = darkModeToggle.querySelector('.light-icon');
-        const darkIcon = darkModeToggle.querySelector('.dark-icon');
-        
-        if (body.classList.contains('dark-mode')) {
-            lightIcon.style.display = 'none';
-            darkIcon.style.display = 'inline-block';
+
+        if (body.classList.contains('light')) {
+            body.classList.replace('light', 'dark');
+            localStorage.setItem('theme', 'dark');
+        } else if (body.classList.contains('dark')) {
+            body.classList.replace('dark', 'sepia');
+            localStorage.setItem('theme', 'sepia');
         } else {
-            darkIcon.style.display = 'none';
-            lightIcon.style.display = 'inline-block';
+            body.classList.replace('sepia', 'light');
+            localStorage.setItem('theme', 'light');
         }
     });
 

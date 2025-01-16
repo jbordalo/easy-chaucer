@@ -1,18 +1,17 @@
 body {
-    font-family: 'Georgia', serif;
+    font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 40px;
-    background-color: #fff;
-    color: #333;
+    transition: background-color 0.3s ease, color 0.3s ease;
     font-size: 1.2em;
     display: flex;
     flex-direction: column;
 }
 
 .container {
+    visibility: hidden;
     max-width: 800px;
-    margin: 0 auto;
-    margin-top: 30px;
+    margin: 30px auto 0;
     font-size: 25px;
     display: flex;
     flex-direction: column;
@@ -20,12 +19,12 @@ body {
 }
 
 .container p {
-    margin: 5px;
+    margin: 5px 0;
 }
 
 #title {
     font-size: 36px;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 20px;
 }
 
 .special-line {
@@ -41,12 +40,25 @@ body {
     justify-content: space-between;
 }
 
-.dark-mode {
+/* Light Mode (default) */
+body {
+    background-color: #fff;
+    color: #333;
+}
+
+/* Sepia Mode */
+.sepia {
+    background-color: #f5ecd2;
+    color: #5b4636;
+}
+
+/* Dark Mode */
+.dark {
     background-color: #121212;
     color: #e0e0e0;
 }
 
-button.dark-mode-toggle {
+button.theme-toggle {
     padding: 10px;
     background-color: transparent;
     border: none;
@@ -63,38 +75,40 @@ button.dark-mode-toggle {
     transition: background-color 0.3s;
 }
 
-.dark-mode button.dark-mode-toggle {
-    background-color: rgb(51, 51, 51);
-}
-
-button.dark-mode-toggle:hover {
+button.theme-toggle:hover {
     background-color: #ddd;
 }
 
-button.dark-mode-toggle:focus {
+button.theme-toggle:focus {
     outline: none;
 }
 
-button.dark-mode-toggle .light-icon,
-button.dark-mode-toggle .dark-icon {
+button.theme-toggle .light-icon,
+button.theme-toggle .dark-icon,
+button.theme-toggle .sepia-icon {
     display: none;
     width: 24px;
     height: 24px;
 }
 
-button.dark-mode-toggle .light-icon {
+button.theme-toggle .light-icon {
     display: inline-block;
 }
 
-button.dark-mode-toggle .dark-icon {
+.dark button.theme-toggle .light-icon {
     display: none;
 }
 
-.dark-mode button.dark-mode-toggle .light-icon {
+.dark button.theme-toggle .dark-icon {
+    display: inline-block;
+}
+
+.sepia button.theme-toggle .light-icon,
+.sepia button.theme-toggle .dark-icon {
     display: none;
 }
 
-.dark-mode button.dark-mode-toggle .dark-icon {
+.sepia button.theme-toggle .sepia-icon {
     display: inline-block;
 }
 
@@ -107,6 +121,7 @@ button.dark-mode-toggle .dark-icon {
 
 dfn {
     text-decoration: underline;
+    text-decoration-thickness: 0.3px;
     font-style: normal;
     cursor: help;
     position: relative;
@@ -127,15 +142,14 @@ dfn:hover::after {
     word-wrap: break-word;
 }
 
-.dark-mode dfn {
-    text-decoration: underline;
-    font-style: normal;
-    cursor: help;
-    color: #e0e0e0;
-}
-
-.dark-mode dfn:hover::after {
+.dark dfn:hover::after {
     background-color: #333;
     color: #e0e0e0;
     border: 1px solid #e0e0e0;
+}
+
+.sepia dfn:hover::after {
+    background-color: #f5ecd2;
+    color: #5b4636;
+    border: 1px solid #5b4636;
 }

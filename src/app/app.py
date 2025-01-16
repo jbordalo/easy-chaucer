@@ -20,7 +20,7 @@ def page(page_name):
         return "Page not found", 404
     except FileNotFoundError:
         print("Could not load the correspondent file")
-        return "An unexpected error occurred", 500
+        return "We're still working on that one", 500
     except Exception as e:
         print(f"Unexpected error: {type(e)}")
         return "An unexpected error occurred", 500

@@ -1,9 +1,3 @@
-.controls {
-    height: 20%;
-    width: 100%;
-}
-
-/* Style the select element */
 select {
     background-color: inherit;
     color: inherit;
@@ -12,35 +6,34 @@ select {
     border-radius: 5px;
     font-family: 'Arial', sans-serif;
     font-size: 14px;
-    appearance: none; /* Remove default dropdown arrow */
-    -webkit-appearance: none; /* For Safari */
-    -moz-appearance: none; /* For Firefox */
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
     width: 100%;
     box-sizing: border-box;
 }
 
-/* Style the option items inside the select */
-select option {
-    /* TODO fix this inherit problem */
-    background-color: #333;
-    color: inherit;
+.light select option {
+    background-color: #ffffff;
+    color: #000000;
 }
 
-/* Custom arrow icon */
+.sepia select option {
+    background-color: #f5ecd2;
+    color: #5b4636;
+}
+
+.dark select option {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
 select::-ms-expand {
-    display: none; /* Remove the default arrow */
+    display: none;
 }
 
-/* Add a custom arrow icon */
-select {
-    background-image: url('assets/archery-arrow-down.svg');
-    background-repeat: no-repeat;
-    background-position: right 10px center;
-}
-
-/* Style the input range slider */
 input[type="range"] {
-    -webkit-appearance: none; /* Remove default appearance */
+    -webkit-appearance: none;
     appearance: none;
     width: 100%;
     height: 10px;
@@ -51,7 +44,6 @@ input[type="range"] {
     transition: background 0.3s ease;
 }
 
-/* Style the thumb of the range input */
 input[type="range"]::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
@@ -63,7 +55,6 @@ input[type="range"]::-webkit-slider-thumb {
     cursor: pointer;
 }
 
-/* Style the thumb of the range input for Firefox */
 input[type="range"]::-moz-range-thumb {
     width: 20px;
     height: 20px;
@@ -73,7 +64,6 @@ input[type="range"]::-moz-range-thumb {
     cursor: pointer;
 }
 
-/* Change background when range is being used */
 input[type="range"]:focus {
     background: #b3b3b3;
 }

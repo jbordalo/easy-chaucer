@@ -56,11 +56,11 @@
 .menu ul {
     list-style: none;
     margin: 0;
-    padding: 10px;
+    padding: 20px;
 }
 
 .menu ul li {
-    padding: 10px 20px;
+    padding: 10px 0;
 }
 
 .menu ul li a {
@@ -72,7 +72,7 @@
     color: #0000D6;
 }
 
-.dark-mode .menu ul li a:hover {
+.dark .menu ul li a:hover {
     color: #D60000;
 }
 
@@ -86,6 +86,71 @@ nav {
     font-size: 52px;
 }
 
-.dark-mode .hamburger-menu span {
+.dark .hamburger-menu span {
     background-color: #e0e0e0;
+}
+
+.category {
+    list-style: none;
+}
+
+.category-label {
+    cursor: pointer;
+    font-weight: bold;
+    display: block;
+    margin: 10px 0;
+    position: relative;
+}
+
+.category input[type="checkbox"] {
+    display: none;
+}
+
+.category input[type="checkbox"]:not(:checked) + .category-label + .subcategory {
+    display: none;
+}
+
+.category input[type="checkbox"]:not(:checked) + .category-label::before {
+    transform: rotate(-90deg);
+}
+
+.category-label::before {
+    content: "▼";
+    display: inline-block;
+    margin-right: 5px;
+    transition: transform 0.2s ease;
+}
+
+.subcategory {
+    list-style: none;
+    padding-left: 15px;
+}
+
+.subcategory li {
+    padding: 5px 10px;
+}
+
+.dark .subcategory li a {
+    color: #e0e0e0;
+}
+
+.subcategory li a:hover {
+    color: #0000D6;
+}
+
+.dark .subcategory li a:hover {
+    color: #D60000;
+}
+
+.light .menu {
+    background-color: white;
+}
+
+.dark .menu {
+    background-color: #121212;
+}
+
+.sepia .menu {
+    background-color: #f4ecd8;
+    color: #5b4636;
 }
