@@ -24,10 +24,10 @@
 
                 {% if 'special-line' not in line %}
                     {% set ns.line_counter = ns.line_counter + 1 %}
-                {% endif %}
-
-                {% if ns.line_counter is divisibleby 5 and ns.line_counter != 0 %}
-                    <p class="line-number">{{ ns.line_counter }}</p>
+                    
+                    {% if ns.line_counter is divisibleby 5 %}
+                        <p class="line-number">{{ ns.line_counter }}</p>
+                    {% endif %}
                 {% endif %}
             </div>
         {% endfor %}
