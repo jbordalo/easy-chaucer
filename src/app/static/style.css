@@ -10,7 +10,7 @@ body {
 
 .container {
     visibility: hidden;
-    max-width: 800px;
+    width: 40%;
     margin: 30px auto 0;
     font-size: 25px;
     display: flex;
@@ -36,7 +36,7 @@ body {
     display: inline-block;
     margin: 15px auto !important;
     font-style: italic;
-    max-width: 50%;
+    max-width: 60%;
     text-align: center;
 }
 
