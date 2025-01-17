@@ -12,7 +12,7 @@ metadata = {
     "millers-prologue": {
         "title": "Miller's Prologue",
         "file_root_name": "millers-prologue",
-        "initial_line": 3108
+        "initial_line": 3109
     },
     "millers-tale": {
         "title": "Miller's Tale",
