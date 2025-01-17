@@ -19,7 +19,7 @@ def transform_line(line: Line, span: str, note_text: str) -> str:
         new_line = f"<dfn data-note=\"{note_text}\">{line.get_text().strip()}</dfn>\n"
     else:
         found_span = re.search(
-            rf'(?:\b|\s)({re.escape(span.strip())})(?:\b|\s|$)', line.get_text(), re.IGNORECASE)
+            rf'(?:\b|\s|"|\')({re.escape(span.strip())})(?:\b|\s|"|\'|$)', line.get_text(), re.IGNORECASE)
 
         if not found_span:
             print("ERROR")
