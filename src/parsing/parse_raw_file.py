@@ -1,34 +1,10 @@
 from typing import List, Tuple, Dict
 import re
 from create_html_lines import construct_lines_with_notes
-from line import Line, is_special
+from line import Line, is_special, is_verse, is_simple_note, is_multiline_note
 from note import Note
 
 NOTE_TAG = "NOTE: "
-
-
-def is_verse(line):
-    return not re.match(r'^\d+[\.:]?.*', line)
-
-
-# pre-condition: not is_verse
-def is_simple_note(line):
-    assert not is_verse(line)
-    try:
-        int(line.split(maxsplit=1)[0])
-        return True
-    except ValueError:
-        return False
-
-
-def is_multiline_note(line):
-    try:
-        start, end = line.split(maxsplit=1)[0].split('-')
-        int(start)
-        int(end)
-        return True
-    except Exception:
-        return False
 
 
 def expand_note(verse: str, full_note: str):
