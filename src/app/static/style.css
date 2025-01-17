@@ -46,7 +46,7 @@ body {
 }
 
 /* Light Mode (default) */
-body {
+.light {
     background-color: #fff;
     color: #333;
 }

@@ -19,7 +19,7 @@
                 <li>
                     <label for="fontSelect">Font:</label>
                     <select id="fontSelect">
-                        <option value="Times New Roman">Times New Roman</option>
+                        <option value="Times New Roman" selected>Times New Roman</option>
                         <option value="Arial">Arial</option>
                         <option value="Courier New">Courier New</option>
                         <option value="Old English Five">Old English Five</option>
@@ -78,6 +78,9 @@
     if (localStorage.getItem('theme') !== null) {
         console.log("Setting theme:", localStorage.getItem('theme'));
         body.classList.add(localStorage.getItem('theme'));
+    } else {
+        body.classList.add('dark');
+        localStorage.setItem('theme', 'dark')
     }
 
     document.addEventListener("DOMContentLoaded", function() {
@@ -85,7 +88,7 @@
         
         if (localStorage.getItem('fontSize')) {
             const fontSize = localStorage.getItem('fontSize');
-            
+
             container.style.fontSize = fontSize + 'px';
             fontSizeSlider.value = fontSize;
         }
@@ -101,7 +104,6 @@
 
     themeToggle.addEventListener('click', () => {
         console.log("Switching theme");
-        
 
         if (body.classList.contains('light')) {
             body.classList.replace('light', 'dark');
