@@ -34,7 +34,7 @@ def reconstruct(lines):
 
     return new_lines
 
-parsed_chapter= "knights-tale"
+parsed_chapter= "cooks-tale"
 page_range = chapter_ranges[parsed_chapter]
 pages = convert_from_path("canterbury_tales.pdf", first_page=page_range[0], last_page=page_range[1])
 

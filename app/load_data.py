@@ -1,3 +1,5 @@
+import os
+
 metadata = {
     "general-prologue": {
         "title": "General Prologue",
@@ -5,43 +7,44 @@ metadata = {
         "initial_line": 1
     },
     "knights-tale": {
-        "title": "Knight's Tale",
+        "title": "The Knight's Tale",
         "file_root_name": "knights-tale",
         "initial_line": 859
     },
     "millers-prologue": {
-        "title": "Miller's Prologue",
+        "title": "The Miller's Prologue",
         "file_root_name": "millers-prologue",
         "initial_line": 3109
     },
     "millers-tale": {
-        "title": "Miller's Tale",
+        "title": "The Miller's Tale",
         "file_root_name": "millers-tale",
         "initial_line": 3187
     },
     "reeves-prologue": {
-        "title": "Reeve's Prologue",
+        "title": "The Reeve's Prologue",
         "file_root_name": "reeves-prologue",
         "initial_line": 3855
     },"reeves-tale": {
-        "title": "Reeve's Tale",
+        "title": "The Reeve's Tale",
         "file_root_name": "reeves-tale",
         "initial_line": 3921
     },
     "cooks-prologue": {
-        "title": "Cook's Prologue",
+        "title": "The Cook's Prologue",
         "file_root_name": "cooks-prologue",
         "initial_line": 4325
     },"cooks-tale": {
-        "title": "Cook's Tale",
+        "title": "The Cook's Tale",
         "file_root_name": "cooks-tale",
         "initial_line": 4365
     },
 }
 
 
-def get_chapter_info(chapter):
-    with open(f"loadable/{metadata[chapter]['file_root_name']}_html.txt") as f:
+def get_chapter_info(chapter, root_dir):
+    print(os.getcwd())
+    with open(os.path.join(root_dir, f"{metadata[chapter]['file_root_name']}_html.txt")) as f:
         lines = f.readlines()
 
     title = metadata[chapter]["title"]

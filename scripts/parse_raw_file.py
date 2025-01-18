@@ -96,8 +96,8 @@ if __name__ == '__main__':
     lines: List[Line] = []
     special_lines: Dict[str, Tuple[Line, int]] = {}
 
-    chapter = "knights-tale"
-    chapter_initial_line = 859
+    chapter = "cooks-tale"
+    chapter_initial_line = 4365
 
     with open(f'raw_{chapter}.txt', 'r') as f:
         """
