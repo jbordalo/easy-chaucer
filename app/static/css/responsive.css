@@ -1,0 +1,39 @@
+@media (max-width: 600px) {
+    body {
+        font-size: 1em;
+        padding: 20px;
+    }
+    #logo {
+        /* display: none; */
+        font-size: 24px;
+        margin: 0 auto;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .container {
+        width: 100%;
+    }
+    .menu {
+        left: -10px;
+        top: 60px;
+        width: 70%;
+        height: 100%;
+    }
+    .menu-icon {
+        top: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container {
+        width: 80%;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+

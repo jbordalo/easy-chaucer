@@ -63,67 +63,6 @@ body {
     color: #e0e0e0;
 }
 
-button.theme-toggle {
-    padding: 10px;
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-    border-radius: 50%;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    transition: background-color 0.3s;
-}
-
-button.theme-toggle:hover {
-    background-color: #ddd;
-}
-
-button.theme-toggle:focus {
-    outline: none;
-}
-
-button.theme-toggle .light-icon,
-button.theme-toggle .dark-icon,
-button.theme-toggle .sepia-icon {
-    display: none;
-    width: 24px;
-    height: 24px;
-}
-
-button.theme-toggle .light-icon {
-    display: inline-block;
-}
-
-.dark button.theme-toggle .light-icon {
-    display: none;
-}
-
-.dark button.theme-toggle .dark-icon {
-    display: inline-block;
-}
-
-.sepia button.theme-toggle .light-icon,
-.sepia button.theme-toggle .dark-icon {
-    display: none;
-}
-
-.sepia button.theme-toggle .sepia-icon {
-    display: inline-block;
-}
-
-@media (max-width: 600px) {
-    body {
-        font-size: 1em;
-        padding: 20px;
-    }
-}
-
 dfn {
     text-decoration: underline;
     text-decoration-thickness: 0.3px;

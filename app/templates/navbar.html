@@ -1,58 +1,59 @@
 <html>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/navbar.css') }}">
     <link rel="stylesheet" href="{{ url_for('static', filename='css/controls.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
     <link href="https://fonts.cdnfonts.com/css/old-english-five" rel="stylesheet">
 </html>
 
 <nav>
     <div class="hamburger-menu">
-        <input type="checkbox" id="menu-toggle" checked>
-        <label for="menu-toggle" class="menu-icon">
-            <span></span>
-            <span></span>
-            <span></span>
-        </label>
-        <div class="menu">
-            <ul>
-                <li><a href="/">Home</a></li>
-                <hr>
-                <li>
-                    <label for="fontSelect">Font:</label>
-                    <select id="fontSelect">
-                        <option value="Times New Roman" selected>Times New Roman</option>
-                        <option value="Arial">Arial</option>
-                        <option value="Courier New">Courier New</option>
-                        <option value="Old English Five">Old English Five</option>
-                    </select>
-                </li>
-                <li>
-                    <label for="fontSize">Font Size:</label>
-                    <input type="range" id="fontSize" min="12" max="48" value="16">
-                </li>
-                <hr>
-                <li class="category">
-                    <input type="checkbox" id="fragment-i-toggle" checked>
-                    <label for="fragment-i-toggle" class="category-label">Fragment I</label>
-                    <ul class="subcategory">
-                        <li><a href="/general-prologue">General Prologue</a></li>
-                        <li><a href="/knights-tale">The Knight's Tale</a></li>
-                        <li><a href="/millers-prologue">The Miller's Prologue</a></li>
-                        <li><a href="/millers-tale">The Miller's Tale</a></li>
-                        <li><a href="/reeves-prologue">The Reeve's Prologue</a></li>
-                        <li><a href="/reeves-tale">The Reeve's Tale</a></li>
-                        <li><a href="/cooks-prologue">The Cook's Prologue</a></li>
-                        <li><a href="/cooks-tale">The Cook's Tale</a></li>
-                    </ul>
-                </li>
-                <li class="category">
-                    <input type="checkbox" id="fragment-ii-toggle" checked>
-                    <label for="fragment-ii-toggle" class="category-label">Fragment II</label>
-                    <ul class="subcategory">
-                        <li>The Man of Law's Tale</li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
+            <input type="checkbox" id="menu-toggle" checked>
+            <label for="menu-toggle" class="menu-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
+            <div class="menu">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <hr>
+                    <li>
+                        <label for="fontSelect">Font:</label>
+                        <select id="fontSelect">
+                            <option value="Times New Roman" selected>Times New Roman</option>
+                            <option value="Arial">Arial</option>
+                            <option value="Courier New">Courier New</option>
+                            <option value="Old English Five">Old English Five</option>
+                        </select>
+                    </li>
+                    <li>
+                        <label for="fontSize">Font Size:</label>
+                        <input type="range" id="fontSize" min="12" max="48" value="16">
+                    </li>
+                    <hr>
+                    <li class="category">
+                        <input type="checkbox" id="fragment-i-toggle" checked>
+                        <label for="fragment-i-toggle" class="category-label">Fragment I</label>
+                        <ul class="subcategory">
+                            <li><a href="/general-prologue">General Prologue</a></li>
+                            <li><a href="/knights-tale">The Knight's Tale</a></li>
+                            <li><a href="/millers-prologue">The Miller's Prologue</a></li>
+                            <li><a href="/millers-tale">The Miller's Tale</a></li>
+                            <li><a href="/reeves-prologue">The Reeve's Prologue</a></li>
+                            <li><a href="/reeves-tale">The Reeve's Tale</a></li>
+                            <li><a href="/cooks-prologue">The Cook's Prologue</a></li>
+                            <li><a href="/cooks-tale">The Cook's Tale</a></li>
+                        </ul>
+                    </li>
+                    <li class="category">
+                        <input type="checkbox" id="fragment-ii-toggle" checked>
+                        <label for="fragment-ii-toggle" class="category-label">Fragment II</label>
+                        <ul class="subcategory">
+                            <li>The Man of Law's Tale</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
     </div>
 
     <h2 id="logo">
@@ -66,67 +67,5 @@
     </button>
 </nav>
 
-<script>
-    const themeToggle = document.getElementById('themeToggle');
-    const body = document.body;
-    const fontSizeSlider = document.getElementById('fontSize');
-    const fontSelect = document.getElementById('fontSelect');
-
-    fontSizeSlider.addEventListener('input', updateStyle);
-    fontSelect.addEventListener('change', updateStyle);
-
-    if (localStorage.getItem('theme') !== null) {
-        console.log("Setting theme:", localStorage.getItem('theme'));
-        body.classList.add(localStorage.getItem('theme'));
-    } else {
-        body.classList.add('dark');
-        localStorage.setItem('theme', 'dark')
-    }
-
-    document.addEventListener("DOMContentLoaded", function() {
-        const container = document.querySelector('.container');
-        
-        if (localStorage.getItem('fontSize')) {
-            const fontSize = localStorage.getItem('fontSize');
-
-            container.style.fontSize = fontSize + 'px';
-            fontSizeSlider.value = fontSize;
-        }
-        if (localStorage.getItem('fontFamily')) {
-            const fontFamily = localStorage.getItem('fontFamily');
-
-            container.style.fontFamily = fontFamily;
-            fontSelect.value = fontFamily;
-        }
-
-        container.style.visibility = "visible";
-    })
-
-    themeToggle.addEventListener('click', () => {
-        console.log("Switching theme");
-
-        if (body.classList.contains('light')) {
-            body.classList.replace('light', 'dark');
-            localStorage.setItem('theme', 'dark');
-        } else if (body.classList.contains('dark')) {
-            body.classList.replace('dark', 'sepia');
-            localStorage.setItem('theme', 'sepia');
-        } else {
-            body.classList.replace('sepia', 'light');
-            localStorage.setItem('theme', 'light');
-        }
-    });
-
-    function updateStyle() {
-        const container = document.querySelector('.container');
-
-        const fontSize = fontSizeSlider.value;
-        const fontFamily = fontSelect.value;
-
-        container.style.fontSize = fontSize + 'px';
-        container.style.fontFamily = fontFamily;
-
-        localStorage.setItem('fontSize', fontSize);
-        localStorage.setItem('fontFamily', fontFamily);
-    }
-</script>
+<script src="{{ url_for('static', filename='js/menu.js') }}"></script>
+<script src="{{ url_for('static', filename='js/controls.js') }}"></script>
