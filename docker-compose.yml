@@ -1,0 +1,14 @@
+version: "2.1"
+services:
+  easy-chaucer:
+    image: easy-chaucer:latest
+    container_name: easy-chaucer
+    ports:
+      - 5000:5000
+    networks:
+      - bordalo-network
+    restart: unless-stopped
+
+networks:
+  bordalo-network:
+    external: true
